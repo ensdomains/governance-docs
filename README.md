@@ -6,8 +6,6 @@ description: >-
 
 # Governance Process
 
-
-
 This document is a suggested process for developing and advancing ENS Governance Proposals. It is a living document intended to be owned, modified and enforced by the ENS community.
 
 ## Venues
@@ -62,9 +60,9 @@ If your proposal is a constitutional amendment, you will need to produce a diff 
 
 Once you are confident the proposal is in a stable state, you can proceed to phase 3.
 
-### **Phase 3: Governance Proposal — Discourse / Governance Portal**
+### **Phase 3: Active Proposal — Discourse / Governance Portal**
 
-The first step in passing your governance proposal is to create a vote on [snapshot](https://snapshot.org/#/ens.eth). Request that an editor advance your proposal to a vote. They will:
+Request that an editor advance your proposal to a vote. They will:
 
 1. Move your proposal from Draft Proposals to Active Proposals.
 2. Assign your proposal a proposal number in the form EP###.
