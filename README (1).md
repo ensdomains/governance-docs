@@ -74,7 +74,7 @@ If your proposal is an Executable Proposal, you will now need to submit it to th
 
 To enact an Executable Proposal:
 
-1. Ensure at least 1 million ENS is delegated to your address in order to submit a proposal, or find a delegate who has enough delegated ENS to meet the proposal threshold to propose on your behalf.
+1. Ensure at least 100k ENS is delegated to your address in order to submit a proposal, or find a delegate who has enough delegated ENS to meet the proposal threshold to propose on your behalf.
 2. Call the propose() function of the ENS governor (at [governor.ensdao.eth](https://etherscan.io/address/0x323a76393544d5ecca80cd6ef2a560c6a395b7e3)) to deploy your proposal.
 
 Once the propose() function has been called, a seven day voting period is started. Ongoing discussion can take place on your proposal post. If the proposal passes successfully, a two day timelock will follow before the proposed code is executed.
