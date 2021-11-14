@@ -62,7 +62,7 @@ Once you are confident the proposal is in a stable state, you can proceed to pha
 
 ### **Phase 3: Active Proposal — Discourse / Governance Portal**
 
-Request that an editor advance your proposal to a vote. They will:
+Request that a moderator advance your proposal to a vote by tagging @moderators in a reply. They will:
 
 1. Move your proposal from Draft Proposals to Active Proposals.
 2. Assign your proposal a proposal number in the form EP###.
