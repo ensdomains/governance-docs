@@ -35,8 +35,8 @@ There are also other governance interfaces that users can use to cast their vote
 There are three main types of governance proposal you can make:
 
 1. **Executable Proposal:** This is a proposal for a series of smart contract operations to be executed by accounts the DAO controls. These can include transfers of tokens as well as arbitrary smart contract calls. Examples of this include allocating funding to a workstream multisig wallet, or upgrading an ENS core contract. Executable proposals have a quorum requirement of 1% and a require a minimum approval of 50% to pass.
-2. **Ordinary Proposal**: This is a "social proposal" that asks for the agreement of the DAO on something that cannot be enforced onchain. Examples of this include a proposal to change the royalty percentage for the ENS secondary market on OpenSea, or a petition to the root keyholders. Ordinary proposals have a quorum requirement of 1% and require a minimum approval of 50% to pass.
-3. **Constitutional Amendment**: This is a "social proposal" that asks the DAO to amend the constitution. Your draft proposal should include a [diff](https://en.wikipedia.org/wiki/Diff) showing the exact changes you propose to make to the constitution. Rules for amending the constitution are set in the constitution itself, and currently require a quorum of 1% and a minimum approval of two thirds to pass.
+2. **Social Proposal**: This is a proposal that asks for the agreement of the DAO on something that cannot be enforced onchain. Examples of this include a proposal to change the royalty percentage for the ENS secondary market on OpenSea, or a petition to the root keyholders. SocialS proposals have a quorum requirement of 1% and require a minimum approval of 50% to pass.
+3. **Constitutional Amendment**: This is a social proposal that asks the DAO to amend the constitution. Your draft proposal should include a [diff](https://en.wikipedia.org/wiki/Diff) showing the exact changes you propose to make to the constitution. Rules for amending the constitution are set in the constitution itself, and currently require a quorum of 1% and a minimum approval of two thirds to pass.
 
 ### **Phase 1: Temperature Check — Discourse**
 
@@ -68,7 +68,7 @@ Request that an editor advance your proposal to a vote. They will:
 2. Assign your proposal a proposal number in the form EP###.
 3. Create a snapshot vote for your proposal with a duration of 5 days, and link to it from your proposal post.
 
-If your proposal is an Ordinary Proposal or a Constitutional Amendment, that's it! If the snapshot vote passes, the proposal is passed and you are done.
+If your proposal is an Social Proposal or a Constitutional Amendment, that's it! If the snapshot vote passes, the proposal is passed and you are done.
 
 If your proposal is an Executable Proposal, you will now need to submit it to the governor contract for voting onchain.
 
@@ -90,7 +90,7 @@ Once the propose() function has been called, a seven day voting period is starte
 **Quorum**: In order for a vote to pass, a certain percentage of ENS tokens must vote in the affirmative. The current quorum requirements are:
 
 * Executable Proposals: 1%
-* Ordinary Proposals: 1%
+* Social Proposals: 1%
 * Constitutional Amendments: 1%
 
 The purpose of this quorum is to ensure that the only measures that pass have adequate voter participation.
