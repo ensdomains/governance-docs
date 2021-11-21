@@ -48,4 +48,4 @@ In order to facilitate making the most widely usable naming system, ENS aims to 
 
 ## V. Amendments to this constitution by majority vote
 
-Any change may be made to this constitution only by two-thirds majority and at least 1% of all tokens participating.
+Any change may be made to this constitution only by two-thirds majority and at least 5% of all tokens participating.
