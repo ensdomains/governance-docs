@@ -1,8 +1,18 @@
 # ENS DAO Constitution
 
-The ENS constitution is a set of binding rules that determine what governance actions are legitimate for the DAO to take.
+The ENS constitution is a set of binding but non-exhaustive rules that determine what governance actions are legitimate for the DAO to take.
 
-Each article has examples of permissible and non permissible actions. These examples are illustrative and should not be considered a binding part of the text of the constitution itself.
+Note: most articles are accompanied by examples of permissible and non permissible actions. These examples are illustrative and should not be considered a binding part of the text of the constitution itself.
+
+## 0. The token is not the community
+
+The articles which follow below, even as eventually amended, can neither embody nor enforce the entire consensus around what ENS already is, or what it should continue to be and become. Instead it is the responsibility of every ENS community member, and especially those granted higher powers and responsibilities by this constitution, to protect:
+
+ * the predictability and legitimacy of the consensus around how ENS names work;
+ * the legibility and credible neutrality of the ENS system for as many users and stakeholders as possible;
+ * and the positive social trust and goodwill which exists among the present and future set of ENS stakeholders.
+
+**It is not the intent of this constitution to confuse the mechanisms by which the ENS community *expresses* its consensus for a limiting *definition* on what that consensus can look like or how it can be achieved. Only the careful and active collaboration of the entire ENS community can maintain and grow ENS into its fullest potential.**
 
 ## I. Name ownership shall not be infringed
 
