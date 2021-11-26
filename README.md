@@ -1,6 +1,6 @@
 ---
 description: >-
-  The ENS DAO is a DAO that governs the ENS protocol. Here you will findimportant links and resources related to understanding and participating in
+  The ENS DAO is a DAO that governs the ENS protocol. Here you will find important links and resources related to understanding and participating in
   the governance of ENS.
 ---
 
