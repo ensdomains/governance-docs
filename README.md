@@ -10,7 +10,7 @@ description: >-
 
 [**ENS homepage**](https://ens.domains): Where you can register and manage ENS names.\
 [**Twitter**](htps://twitter.com/endomains): The official ENS Twitter account\
-[**Discord**](https://discord.gg/ens): Where the users can get support and the community can hang out. \
+[**Discord**](https://chat.ens.domains): Where the users can get support and the community can hang out. \
 [**Newsletter**](https://ensdomains.substack.com): Where we catch up on what's been happening in the ENS community.
 
 ## $ENS Governance Token Airdrop
@@ -18,7 +18,7 @@ description: >-
 [**Airdrop Claim Site**](https://claim.ens.domains): Check your eligibility and claim your $ENS airdrop.\
 [**Call for Delegates post**](https://ens.mirror.xyz/cfvfKRpQSPtZJjPQOprWqEeqv2rytE7tQkxDg6ht7Oo): Announcement of the DAO and call for Delegates\
 [**$ENS Token Allocation post**](https://ens.mirror.xyz/-eaqMv7XPikvXhvjbjzzPNLS4wzcQ8vdOgi9eNXeUuY): Breakdown of the $ENS token allocation\
-[**$ENS Claiming post**](https://ens.mirror.xyz/-eaqMv7XPikvXhvjbjzzPNLS4wzcQ8vdOgi9eNXeUuY): Overview of the process to claim your $ENS Governance tokens
+[**$ENS Claiming post\*\*](https://ens.mirror.xyz/-eaqMv7XPikvXhvjbjzzPNLS4wzcQ8vdOgi9eNXeUuY): Overview of the process to claim your $ENS Governance tokens
 
 ## Context for Governance
 
