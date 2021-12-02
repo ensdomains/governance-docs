@@ -10,7 +10,7 @@ description: >-
 
 [**ENS homepage**](https://ens.domains): Where you can register and manage ENS names.\
 [**Twitter**](htps://twitter.com/endomains): The official ENS Twitter account\
-[**Discord**](https://discord.gg/ens): Where the users can get support and the community can hang out. \
+[**Discord**](https://chat.ens.domains): Where the users can get support and the community can hang out. \
 [**Newsletter**](https://ensdomains.substack.com): Where we catch up on what's been happening in the ENS community.
 
 ## $ENS Governance Token Airdrop
