@@ -18,7 +18,7 @@ description: >-
 [**Airdrop Claim Site**](https://claim.ens.domains): Check your eligibility and claim your $ENS airdrop.\
 [**Call for Delegates post**](https://ens.mirror.xyz/cfvfKRpQSPtZJjPQOprWqEeqv2rytE7tQkxDg6ht7Oo): Announcement of the DAO and call for Delegates\
 [**$ENS Token Allocation post**](https://ens.mirror.xyz/-eaqMv7XPikvXhvjbjzzPNLS4wzcQ8vdOgi9eNXeUuY): Breakdown of the $ENS token allocation\
-[**$ENS Claiming post\*\*](https://ens.mirror.xyz/-eaqMv7XPikvXhvjbjzzPNLS4wzcQ8vdOgi9eNXeUuY): Overview of the process to claim your $ENS Governance tokens
+[**$ENS Claiming post**](https://ens.mirror.xyz/-eaqMv7XPikvXhvjbjzzPNLS4wzcQ8vdOgi9eNXeUuY): Overview of the process to claim your $ENS Governance tokens
 
 ## Context for Governance
 
