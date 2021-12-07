@@ -4,3 +4,7 @@
 * [Governance Process](process.md)
 * [ENS DAO Constitution](ens-dao-constitution.md)
 * [The ENS Foundation](the-ens-foundation.md)
+* [Governance Proposals](governance-proposals/README.md)
+  * [\[EP1\] \[Social\] Proposal: Transfer ENS Treasury and Contract Ownership](governance-proposals/ep1-social-proposal-transfer-ens-treasury-and-contract-ownership.md)
+  * [\[EP2\] \[Executable\] Retrospective airdrop for accounts that owned another account’s primary ENS 1](governance-proposals/ep2-executable-retrospective-airdrop-for-accounts-that-owned-another-accounts-primary-ens-1.md)
+  * [\[EP3\] \[Social\] Amend airdrop proposal to include accidentally returned funds](governance-proposals/ep3-social-amend-airdrop-proposal-to-include-accidentally-returned-funds.md)
