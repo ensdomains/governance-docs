@@ -7,13 +7,10 @@ description: >-
 
 # \[EP2] \[Executable] Retrospective airdrop for accounts that owned another account’s primary ENS 1
 
-**Status:** Awaiting Execution
-
-**Discussion Thread:** [Discuss](https://discuss.ens.domains/t/ep2-executable-retrospective-airdrop-for-accounts-that-owned-another-accounts-primary-ens-name/6755)
-
-**Votes:**&#x20;
-
-* [Snapshot](https://snapshot.org/#/ens.eth/proposal/0xcf77c74696cab1d939936ae8684c0007297bed641f60896ad186354f036d725f) passed on 2021-12-06
+| **Status**            | Awaiting Execution                                                                                                                           |
+| --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Discussion Thread** | [Discuss](https://discuss.ens.domains/t/ep2-executable-retrospective-airdrop-for-accounts-that-owned-another-accounts-primary-ens-name/6755) |
+| **Votes**             | [Snapshot](https://snapshot.org/#/ens.eth/proposal/0xcf77c74696cab1d939936ae8684c0007297bed641f60896ad186354f036d725f) passed on 2021-12-06  |
 
 ## Summary
 

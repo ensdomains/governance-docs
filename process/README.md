@@ -56,7 +56,7 @@ Reach out to your network to build support for the proposal. Discuss the proposa
 
 If your proposal is an exectuable proposal, you will need to write the code for your proposal while it is in draft stage. You may wish to wait until the proposal is stable before doing this. Documentation on composing a proposal can be found [here](https://docs.openzeppelin.com/contracts/4.x/governance#proposal\_lifecycle).
 
-If your proposal is a constitutional amendment, you will need to produce a diff showing the exact changes you are proposing to make. The easiest way to do this is to go to the [constitution](ens-dao-constitution.md), click "Edit on GitHub", then click the pencil icon to edit the document in a fork. You can then create a pull request via the GitHub UI and include this in your proposal.
+If your proposal is a constitutional amendment, you will need to produce a diff showing the exact changes you are proposing to make. The easiest way to do this is to go to the [constitution](../ens-dao-constitution.md), click "Edit on GitHub", then click the pencil icon to edit the document in a fork. You can then create a pull request via the GitHub UI and include this in your proposal.
 
 Once you are confident the proposal is in a stable state, you can proceed to phase 3.
 

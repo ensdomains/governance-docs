@@ -1,7 +1,8 @@
 # Table of contents
 
 * [Welcome to ENS DAO](README.md)
-* [Governance Process](process.md)
+* [Governance Process](process/README.md)
+  * [Moderator Checklists](process/moderator-checklists.md)
 * [ENS DAO Constitution](ens-dao-constitution.md)
 * [The ENS Foundation](the-ens-foundation.md)
 * [Governance Proposals](governance-proposals/README.md)

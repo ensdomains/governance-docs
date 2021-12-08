@@ -4,13 +4,10 @@ description: Transfer ENS treasury and contract ownership from the ENS Multisig 
 
 # \[EP1] \[Social] Proposal: Transfer ENS Treasury and Contract Ownership
 
-**Status:** Passed
-
-**Discussion Thread:** [Discuss](https://discuss.ens.domains/t/ep1-social-proposal-transfer-ens-treasury-and-contract-ownership/6307)
-
-**Votes:**&#x20;
-
-* [Snapshot](https://snapshot.org/#/ens.eth/proposal/0xfe73d1b06675d6bc1cc074f440c347274d13c55b513ea02ec950efe639adbbb0) passed on 2021-11-29
+| **Status**            | Passed                                                                                                                                      |
+| --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Discussion Thread** | [Discuss](https://discuss.ens.domains/t/ep1-social-proposal-transfer-ens-treasury-and-contract-ownership/6307)                              |
+| **Votes**             | [Snapshot](https://snapshot.org/#/ens.eth/proposal/0xfe73d1b06675d6bc1cc074f440c347274d13c55b513ea02ec950efe639adbbb0) passed on 2021-11-29 |
 
 ## Abstract
 
