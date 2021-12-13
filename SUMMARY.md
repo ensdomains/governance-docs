@@ -9,3 +9,4 @@
   * [\[EP1\] \[Social\] Proposal: Transfer ENS Treasury and Contract Ownership](governance-proposals/ep1-social-proposal-transfer-ens-treasury-and-contract-ownership.md)
   * [\[EP2\] \[Executable\] Retrospective airdrop for accounts that owned another account’s primary ENS 1](governance-proposals/ep2-executable-retrospective-airdrop-for-accounts-that-owned-another-accounts-primary-ens-1.md)
   * [\[EP3\] \[Social\] Amend airdrop proposal to include accidentally returned funds](governance-proposals/ep3-social-amend-airdrop-proposal-to-include-accidentally-returned-funds.md)
+  * [\[EP4\] \[Social\] Proposal: Creation of Foundational Working Groups and Working Group Rules](governance-proposals/ep4-social-proposal-creation-of-foundational-working-groups-and-working-group-rules.md)
