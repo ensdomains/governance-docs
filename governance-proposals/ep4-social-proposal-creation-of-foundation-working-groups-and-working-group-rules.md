@@ -2,7 +2,7 @@
 description: Create four foundational working groups and establish rules related to the creation, management, and dissolution of working groups within the ENS DAO.
 ---
 
-# [EP4] [Social] Proposal: Creation of Foundational Working Groups and Working Group Rules
+# \[EP4] \[Social] Proposal: Creation of Foundational Working Groups and Working Group Rules
 
 | **Status**            | Pending                                                                                                                                              |
 | --------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
