@@ -46,17 +46,17 @@ Create four foundational working groups and establish rules related to the creat
 
 ### Formation and Dissolution of Working Groups
 
-1. **Formation of Working Groups**
+2. **Formation of Working Groups**
    1. To create a new working group, a social proposal, as defined by the [ENS governance documentation](https://docs.ens.domains/v/governance/process#types-of-proposal) (‘**Social Proposal**’), must be put forward and passed by the DAO.
    2. A Social Proposal to create a new working group must demonstrate that the new working group is needed and the work cannot be undertaken within an existing working group.
-2. **Dissolution of Working Groups**
+3. **Dissolution of Working Groups**
    1. A working group can be dissolved by passing a Social Proposal requesting the dissolution of a working group or working groups.
    2. If an active proposal is put forward to dissolve a working group, all working group funds, including outgoing payments, within that working group, are to be frozen with immediate effect, pending the outcome of the vote.
    3. Upon the dissolution of a working group, any and all unspent working group funds from that working group, at the time of dissolution, must be immediately returned to the DAO treasury, without delay.
 
 ### Working Group Management
 
-1. **Working Group Stewards**
+4. **Working Group Stewards**
    1. Each working group shall be managed by five stewards (hereafter a ‘**Steward**’ or ‘**Stewards**’).
    2. Stewards will be elected, unless otherwise stated in these rules, to serve within working groups for a set period of time (hereafter known as a ‘**Term**’ or ‘**Terms**’).
    3. There are two Terms each calendar year:
@@ -73,26 +73,26 @@ Create four foundational working groups and establish rules related to the creat
    6. To request working group funds, Stewards of all working groups will collaborate to submit an active executable proposal, as defined by the [ENS governance documentation](https://docs.ens.domains/v/governance/process#types-of-proposal) ('**Collective Proposal**'), to the DAO within the final 15 days (inclusive) of the months of January, March, July, and October each calendar year (each a ‘**Funding Window**’).
       1. In order for a working group to have a funding request included in a Collective Proposal submitted to the DAO during a Funding Window, the funding request must have passed as a Social Proposal in the same Funding Window.
       2. In the case of an emergency, where working group funds are needed by a working group outside of a Funding Window, an Executable Proposal may be submitted at any time by a Steward of a working group to request funds from the DAO.
-2. **Steward Eligibility and Nominations**
+5. **Steward Eligibility and Nominations**
    1. Any individual is eligible to nominate themselves to be a Steward of a working group within the DAO (‘**Eligible Person**’ or ‘**Eligible Persons**’).
    2. To be eligible to be included in the ballot for First Term elections of a given year, Eligible Persons must nominate themselves between 9am UTC on December 6 and 9am UTC on December 9 (‘**First Term Nomination Window**’).
    3. To be eligible to be included in the ballot for Second Term elections of a given year, Eligible Persons must nominate themselves between 9am UTC on June 6 and 9am UTC on June 9 (‘**Second Term Nomination Window**’).
    4. An Eligible Person may nominate themselves to become a Steward of a working group or working groups during the First Term Nomination Window or the Second Term Nomination Window (each a ‘**Nomination Window**’), by meeting the requirements set out in a call for nominations posted in the relevant working group category of the ENS governance forum.
    5. An Eligible Person who completes the steps outlined in rule 5.4 above during a Nomination Window and receives 10,000 signed votes to support their nomination will be included in the ballot as a nominee in the election for Stewards that takes place following that Nomination Window (‘**Nominee**’).
-3. **Steward Elections**
+6. **Steward Elections**
    1. Elections for working group Stewards for the First Term of a given year will take place by a ranked-choice vote of governance token holders using signed messages and will be open for 120 hours, commencing at 9am UTC on December 10 each year (‘**First Term Election Window**’).
    2. Elections for working group Stewards for the Second Term of a given year will take place by a ranked-choice vote of governance token holders using signed messages and will be open for 120 hours, commencing at 9am UTC on June 10 each year (**‘Second Term Election Window**’).
    3. The top-ranked Nominees from each working group vote held during a First Term Election Window or a Second Term Election Window (each an '**Election Window**'), will fill any available positions for the role of Steward for those working groups for the Term immediately following an Election Window, based on the order in which they are ranked in each working group vote.
    4. A Nominee elected to serve as a Steward may not take up the role of Steward for more than two working groups during a single Term.
-4. **Delay of Nominations or Elections**
+7. **Delay of Nominations or Elections**
    1. In the event that nominations or elections for Stewards take place after a Nomination Window or after an Election Window, the nomination process or elections shall take place, as otherwise prescribed in rules 5 and 6 above, as soon as is practicable after the missed Nomination Window or missed Election Window.
    2. In the event that an election takes place outside of an Election Window and after the commencement date of a new Term, outgoing Stewards from the previous Term shall stay in their positions as working group Stewards until immediately prior to 9am UTC the day following the end of the election, which, for the avoidance of doubt, is 120 hours after voting in those elections commenced.
    3. In the event that an election takes place outside of an Election Window and after the commencement date of a new Term, newly elected Stewards will assume the responsibilities of stewardship within working groups at 9am UTC the day following the end of the election, as defined in rule 7.2 above, for the remainder of that Term.
-5. **Core Team Stewards**
+8. **Core Team Stewards**
    1. For the First Term, commencing January 1 2022 at 9am UTC, each working group will include two Stewards who are core team members of True Names Limited (Singapore) (‘**TNL**’), as selected by TNL and not subject to the Steward nomination and election process outlined in rules 5 and 6 above.
    2. For the Second Term, commencing July 1 2022 at 9am UTC, each working group will include one Steward who is a core team member of TNL, as selected by TNL and not subject to the Steward nomination and election process outlined in rules 5 and 6 above.
    3. For the First Term of the following year, commencing January 1 2023, and for all Terms thereafter, all Stewards must be elected and appointed in accordance with the rules set out in rules 5 and 6 above.
-6. **Removal and Replacement of Stewards**
+9. **Removal and Replacement of Stewards**
    1. Stewards may be removed at any time by:
       1. a Social Proposal passed by the DAO; or
       2. a simple indicative majority vote among the Stewards of a given working group, with the outcome of the vote communicated in the relevant working group category of the ENS governance forum.
@@ -100,12 +100,12 @@ Create four foundational working groups and establish rules related to the creat
    3. In the event that a Steward is removed, steps down, or is unable to continue as a Steward, for whatever reason, prior to the end of a Term, any vacant positions will be filled for the remainder of a Term by the next highest ranked Nominee(s) in a given working group from the most recent working group vote in the most recent election for Stewards.
    4. In the event that a Steward steps down or is removed prior to the end of a Term and is a member of the core team of TNL in accordance with rule 8.1 or 8.2 above, the vacant position(s) will be filled by a core team member or team members of TNL, as selected by TNL.
    5. Any Steward selected by TNL in accordance with rule 8.1 or 8.2 above, can be removed by TNL at any time prior to the end of a Term, for any reason, and replaced by another core team member for the remainder of that Term.
-7. **Compensation for Stewards**
+10. **Compensation for Stewards**
    1. Elected Stewards are eligible to receive fair compensation for their work as a Steward.
    2. All requests for Steward compensation must be detailed in a Collective Proposal for working group funds submitted to the DAO in accordance with rule 4.6.
    3. Stewards may not receive compensation for their role as a Steward outside of that compensation expressly provided for in a Collective Proposal submitted to the DAO in accordance with rule 10.2.
    4. Stewards selected by TNL are not eligible to receive compensation from the DAO or working groups for their work as a Steward.
-8. **Amendments**
+11. **Amendments**
    1. These rules may be amended at any time by passing a Social Proposal.
 
 ## Next Steps
