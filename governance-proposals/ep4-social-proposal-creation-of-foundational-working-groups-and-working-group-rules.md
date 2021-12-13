@@ -35,17 +35,12 @@ The working group structure will provide new and existing community members clea
 
 Create four foundational working groups and establish rules related to the creation, management, and dissolution of working groups within the ENS DAO (‘**DAO**’).
 
-### Establish Four Foundational Working Groups
-
 1. **Working Groups**
    1. Four foundational working groups will be established within the DAO:
       1. Meta-Governance Working Group;
       2. ENS Ecosystem Working Group;
       3. Community Working Group; and
       4. Public Goods Working Group.
-
-### Formation and Dissolution of Working Groups
-
 2. **Formation of Working Groups**
    1. To create a new working group, a social proposal, as defined by the [ENS governance documentation](https://docs.ens.domains/v/governance/process#types-of-proposal) (‘**Social Proposal**’), must be put forward and passed by the DAO.
    2. A Social Proposal to create a new working group must demonstrate that the new working group is needed and the work cannot be undertaken within an existing working group.
@@ -53,9 +48,6 @@ Create four foundational working groups and establish rules related to the creat
    1. A working group can be dissolved by passing a Social Proposal requesting the dissolution of a working group or working groups.
    2. If an active proposal is put forward to dissolve a working group, all working group funds, including outgoing payments, within that working group, are to be frozen with immediate effect, pending the outcome of the vote.
    3. Upon the dissolution of a working group, any and all unspent working group funds from that working group, at the time of dissolution, must be immediately returned to the DAO treasury, without delay.
-
-### Working Group Management
-
 4. **Working Group Stewards**
    1. Each working group shall be managed by five stewards (hereafter a ‘**Steward**’ or ‘**Stewards**’).
    2. Stewards will be elected, unless otherwise stated in these rules, to serve within working groups for a set period of time (hereafter known as a ‘**Term**’ or ‘**Terms**’).
