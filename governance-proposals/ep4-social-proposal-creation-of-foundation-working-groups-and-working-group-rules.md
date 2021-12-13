@@ -1,10 +1,11 @@
+---
+description: Create four foundational working groups and establish rules related to the creation, management, and dissolution of working groups within the ENS DAO.
+
+---
+
 # [EP4] [Social] Proposal: Creation of Foundational Working Groups and Working Group Rules
 
-# Summary
-
-Proposal to create four foundational working groups and establish rules related to the creation, management, and dissolution of working groups within the ENS DAO.
-
-# Abstract
+## Abstract
 
 The work-related activities of the ENS DAO will take place within working groups. Each working group will have a specific focus area and mission, aligned with the constitution and needs of the DAO.
 
@@ -17,7 +18,7 @@ This proposal establishes four foundational working groups:
 
 This proposal also sets out rules related to the creation and dissolution of working groups and outlines how working groups will be managed within the DAO.
 
-# Motivation
+## Motivation
 
 Establishing working groups to manage DAO-related work will allow decisions to be made, and action to be taken, without the need for every initiative or decision of the DAO to be passed as a proposal.
 
@@ -25,11 +26,11 @@ The creation of working groups will streamline the management of the DAO into co
 
 The working group structure will provide new and existing community members clear onboarding pathways for meaningful participation and engagement in the DAO.
 
-# Specification
+## Specification
 
 Create four foundational working groups and establish rules related to the creation, management, and dissolution of working groups within the ENS DAO (‘**DAO**’).
 
-## Establish Four Foundational Working Groups
+### Establish Four Foundational Working Groups
 
 1. **Working Groups**
 
@@ -39,7 +40,7 @@ Create four foundational working groups and establish rules related to the creat
         3. Community Working Group; and 
         4. Public Goods Working Group. 
 
-## Formation and Dissolution of Working Groups
+### Formation and Dissolution of Working Groups
 
 2. **Formation of Working Groups**
     1. To create a new working group, a social proposal, as defined by the [ENS governance documentation](https://docs.ens.domains/v/governance/process#types-of-proposal) (‘**Social Proposal**’), must be put forward and passed by the DAO. 
@@ -51,7 +52,7 @@ Create four foundational working groups and establish rules related to the creat
     2. If an active proposal is put forward to dissolve a working group, all working group funds, including outgoing payments, within that working group, are to be frozen with immediate effect, pending the outcome of the vote.
     3. Upon the dissolution of a working group, any and all unspent working group funds from that working group, at the time of dissolution, must be immediately returned to the DAO treasury, without delay.
 
-## Working Group Management
+### Working Group Management
 
 4. **Working Group Stewards**
     1. Each working group shall be managed by five stewards (hereafter a ‘**Steward**’ or ‘**Stewards**’).
@@ -113,7 +114,7 @@ Create four foundational working groups and establish rules related to the creat
     1. These rules may be amended at any time by passing a Social Proposal. 
 
 
-# Next Steps
+## Next Steps
 
 This proposal will be open for voting on Snapshot for five days. This vote will be a single choice vote. You may vote 'for' or 'against' the proposal, or choose to abstain from the vote.
 
