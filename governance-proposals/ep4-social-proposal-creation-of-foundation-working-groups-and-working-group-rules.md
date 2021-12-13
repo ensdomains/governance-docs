@@ -5,6 +5,10 @@ description: Create four foundational working groups and establish rules related
 
 # [EP4] [Social] Proposal: Creation of Foundational Working Groups and Working Group Rules
 
+| **Status**            | Pending                                                                                                                                              |
+| --------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Discussion thread** | [Discuss](https://discuss.ens.domains/t/ep4-social-proposal-creation-of-foundational-working-groups-and-working-group-rules/8156)                               |
+
 ## Abstract
 
 The work-related activities of the ENS DAO will take place within working groups. Each working group will have a specific focus area and mission, aligned with the constitution and needs of the DAO.
