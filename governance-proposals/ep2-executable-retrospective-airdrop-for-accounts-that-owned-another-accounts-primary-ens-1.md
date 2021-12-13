@@ -2,7 +2,7 @@
 description: >-
   Send 213,049 ENS tokens to a new airdrop contract for users who did not
   receive the 2x multiplier despite owning a name that was used as a primary ENS
-  name.
+  name. As amended by EP3.
 ---
 
 # \[EP2] \[Executable] Retrospective airdrop for accounts that owned another account’s primary ENS 1
@@ -11,10 +11,6 @@ description: >-
 | --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Discussion Thread** | [Discuss](https://discuss.ens.domains/t/ep2-executable-retrospective-airdrop-for-accounts-that-owned-another-accounts-primary-ens-name/6755) |
 | **Votes**             | [Snapshot](https://snapshot.org/#/ens.eth/proposal/0xcf77c74696cab1d939936ae8684c0007297bed641f60896ad186354f036d725f) passed on 2021-12-06  |
-
-## Summary
-
-Send 213,049 ENS tokens to a new airdrop contract for users who did not receive the 2x multiplier despite owning a name that was used as a primary ENS name.
 
 ## Abstract
 
@@ -35,17 +31,15 @@ More formally, for each account `a`, the account is assigned the multiplier if t
 5. `r'` has a `name` record, `n'`, set for the reverse record of `a`. `r'` is either the default reverse resolver, or has emitted a `NameChanged` event for `n'` and `a'`.
 6. `n == n'`.
 
-This logic is implemented by [this series of BigQuery queries](https://gist.github.com/Arachnid/667178e854945abaecb6dfd3b6c0c279/1182eea3145394181affe4bb799d6b7858f9eb58), and shows that 1,969 accounts meet these criteria but did not qualify for the multiplier under the original criteria. The sum of the tokens these accounts would be entitled to comes to \~213,049 ENS tokens.
+This logic is implemented by [this series of BigQuery queries](https://gist.github.com/Arachnid/667178e854945abaecb6dfd3b6c0c279/106d9bc156988cf96786c71f6448f13fb11599fc), and shows that 1,969 accounts meet these criteria but did not qualify for the multiplier under the original criteria. The sum of the tokens these accounts would be entitled to comes to \~213,049 ENS tokens. A list of affected accounts and balances is [here](https://gist.github.com/Arachnid/e8b1a18fc19818fb00f51fbb8d90e429).
 
-A list of affected accounts and balances is [here](https://gist.github.com/Arachnid/d6495f57ac6a5b17cf28e01b646e99a8).
-
-This proposal, if executed, will transfer 213,049 ENS tokens to [a new merkle airdrop contract](https://github.com/ensdomains/governance/pull/9) allowing affected users to claim them.
+Further, a number of users have accidentally transferred their ENS tokens to the token contract, totalling 6,246 contracts across 49 transfers. These tokens should be returned to their previous owners. This proposal, if executed, will transfer 219,295 ENS tokens to [a new merkle airdrop contract ](https://github.com/ensdomains/governance/pull/9)allowing affected users to claim them.
 
 ## Specification
 
 1. Request that True Names Limited write and deploy a contract that allows claiming of tokens via Merkle Proofs using the same methodology as was used for the airdrop.
 2. Request that True Names Limited make changes to the claim.ens.domains site to support claiming this additional airdrop for qualifying accounts.
-3. Authorise the contract deployed in (1) to spend 213049736662531485206636 base ENS tokens from the ENS DAO account.
+3. Authorise the contract deployed in (1) to spend 219295650978169915391391 base ENS tokens from the ENS DAO account.
 
 ## Code
 
@@ -56,7 +50,7 @@ const abi = [
 ];
 const token = new ethers.Contract('0xC18360217D8F7Ab5e7c516566761Ea12Ce7F9D72', abi);
 const airdropAddress = 'TBD';
-const tx = await token.populateTransaction.approve(airdropAddress, '213049736662531485206636');
+const tx = await token.populateTransaction.approve(airdropAddress, '219295650978169915391391');
 console.log([token.address]);
 console.log([0]);
 console.log([tx.data]);

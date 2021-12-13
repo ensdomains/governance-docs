@@ -4,10 +4,10 @@ description: Amend EP2 to include funds accidentally sent back to the $ENS token
 
 # \[EP3] \[Social] Amend airdrop proposal to include accidentally returned funds
 
-| **Status**            | Pending                                                                                                                                              |
-| --------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Discussion thread** | [Discuss](https://discuss.ens.domains/t/ep3-social-amend-airdrop-proposal-to-include-accidentally-returned-funds/6975)                               |
-| **Votes**             | [Snapshot](https://snapshot.org/#/ens.eth/proposal/0x9ab53c76cee40d58cb27b244dfa5f9f2763bd8b97b1b4be1dd0f0bf706818fb4) pending, closes on 2021-12-12 |
+| **Status**            | Passed                                                                                                                                      |
+| --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Discussion thread** | [Discuss](https://discuss.ens.domains/t/ep3-social-amend-airdrop-proposal-to-include-accidentally-returned-funds/6975)                      |
+| **Votes**             | [Snapshot](https://snapshot.org/#/ens.eth/proposal/0x9ab53c76cee40d58cb27b244dfa5f9f2763bd8b97b1b4be1dd0f0bf706818fb4) passed on 2021-12-12 |
 
 ## Abstract
 
@@ -23,14 +23,24 @@ This proposal suggests that [EP2](https://discuss.ens.domains/t/executable-retro
 
 Amend [EP2](https://discuss.ens.domains/t/executable-retrospective-airdrop-for-accounts-that-owned-another-accounts-primary-ens-name/6755) as follows:
 
-> `-This logic is implemented by [this series of BigQuery queries](https://gist.github.com/Arachnid/667178e854945abaecb6dfd3b6c0c279/1182eea3145394181affe4bb799d6b7858f9eb58), and shows that 1,969 accounts meet these criteria but did not qualify for the multiplier under the original criteria. The sum of the tokens these accounts would be entitled to comes to ~213,049 ENS tokens.` `+This logic is implemented by [this series of BigQuery queries](https://gist.github.com/Arachnid/667178e854945abaecb6dfd3b6c0c279/106d9bc156988cf96786c71f6448f13fb11599fc), and shows that 1,969 accounts meet these criteria but did not qualify for the multiplier under the original criteria. The sum of the tokens these accounts would be entitled to comes to ~213,049 ENS tokens.`
+> `-This logic is implemented by [this series of BigQuery queries](https://gist.github.com/Arachnid/667178e854945abaecb6dfd3b6c0c279/1182eea3145394181affe4bb799d6b7858f9eb58), and shows that 1,969 accounts meet these criteria but did not qualify for the multiplier under the original criteria. The sum of the tokens these accounts would be entitled to comes to ~213,049 ENS tokens.`&#x20;
+>
+> `+This logic is implemented by [this series of BigQuery queries](https://gist.github.com/Arachnid/667178e854945abaecb6dfd3b6c0c279/106d9bc156988cf96786c71f6448f13fb11599fc), and shows that 1,969 accounts meet these criteria but did not qualify for the multiplier under the original criteria. The sum of the tokens these accounts would be entitled to comes to ~213,049 ENS tokens.`
 
-> `-A list of affected accounts and balances is [here](https://gist.github.com/Arachnid/d6495f57ac6a5b17cf28e01b646e99a8).` `+A list of affected accounts and balances is [here](https://gist.github.com/Arachnid/e8b1a18fc19818fb00f51fbb8d90e429).`
+> `-A list of affected accounts and balances is [here](https://gist.github.com/Arachnid/d6495f57ac6a5b17cf28e01b646e99a8).`&#x20;
+>
+> `+A list of affected accounts and balances is [here](https://gist.github.com/Arachnid/e8b1a18fc19818fb00f51fbb8d90e429).`
 
-> `-This proposal, if executed, will transfer 213,049 ENS tokens to [a new merkle airdrop contract ](https://github.com/ensdomains/governance/pull/9) allowing affected users to claim them.` `+Further, a number of users have accidentally transferred their ENS tokens to the token contract, totalling 6,246 contracts across 49 transfers. These tokens should be returned to their previous owners.` `+This proposal, if executed, will transfer 219,295 ENS tokens to [a new merkle airdrop contract ](https://github.com/ensdomains/governance/pull/9) allowing affected users to claim them.`
+> `-This proposal, if executed, will transfer 213,049 ENS tokens to [a new merkle airdrop contract ](https://github.com/ensdomains/governance/pull/9) allowing affected users to claim them.`&#x20;
+>
+> `+Further, a number of users have accidentally transferred their ENS tokens to the token contract, totalling 6,246 contracts across 49 transfers. These tokens should be returned to their previous owners.`&#x20;
+>
+> `+This proposal, if executed, will transfer 219,295 ENS tokens to [a new merkle airdrop contract ](https://github.com/ensdomains/governance/pull/9) allowing affected users to claim them.`
 
-> `-3. Authorise the contract deployed in (1) to spend 213049736662531485206636 base ENS tokens from the ENS DAO account.` `+3. Authorise the contract deployed in (1) to spend 219295650978169915391391 base ENS tokens from the ENS DAO account.`
+> `-3. Authorise the contract deployed in (1) to spend 213049736662531485206636 base ENS tokens from the ENS DAO account.`&#x20;
+>
+> `+3. Authorise the contract deployed in (1) to spend 219295650978169915391391 base ENS tokens from the ENS DAO account.`
 
-
-
-> `-const tx = await token.populateTransaction.approve(airdropAddress, '213049736662531485206636');` `+const tx = await token.populateTransaction.approve(airdropAddress, '219295650978169915391391');`
+> `-const tx = await token.populateTransaction.approve(airdropAddress, '213049736662531485206636');`&#x20;
+>
+> `+const tx = await token.populateTransaction.approve(airdropAddress, '219295650978169915391391');`

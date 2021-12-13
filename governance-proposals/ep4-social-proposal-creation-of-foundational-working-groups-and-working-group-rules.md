@@ -9,6 +9,7 @@ description: >-
 | **Status**            | Pending                                                                                                                           |
 | --------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
 | **Discussion Thread** | [Discuss](https://discuss.ens.domains/t/ep4-social-proposal-creation-of-foundational-working-groups-and-working-group-rules/8156) |
+| **Votes**             | [Snapshot](https://snapshot.org/#/ens.eth/proposal/0x899ead1d9b9b98f63f6a60dc0939bef55dbe365e78c6a550f07be969a47f148b)            |
 
 ## Abstract
 
