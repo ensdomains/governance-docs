@@ -101,12 +101,12 @@ Create four foundational working groups and establish rules related to the creat
    4. In the event that a Steward steps down or is removed prior to the end of a Term and is a member of the core team of TNL in accordance with rule 8.1 or 8.2 above, the vacant position(s) will be filled by a core team member or team members of TNL, as selected by TNL.
    5. Any Steward selected by TNL in accordance with rule 8.1 or 8.2 above, can be removed by TNL at any time prior to the end of a Term, for any reason, and replaced by another core team member for the remainder of that Term.
 10. **Compensation for Stewards**
-   1. Elected Stewards are eligible to receive fair compensation for their work as a Steward.
-   2. All requests for Steward compensation must be detailed in a Collective Proposal for working group funds submitted to the DAO in accordance with rule 4.6.
-   3. Stewards may not receive compensation for their role as a Steward outside of that compensation expressly provided for in a Collective Proposal submitted to the DAO in accordance with rule 10.2.
-   4. Stewards selected by TNL are not eligible to receive compensation from the DAO or working groups for their work as a Steward.
+    1. Elected Stewards are eligible to receive fair compensation for their work as a Steward.
+    2. All requests for Steward compensation must be detailed in a Collective Proposal for working group funds submitted to the DAO in accordance with rule 4.6.
+    3. Stewards may not receive compensation for their role as a Steward outside of that compensation expressly provided for in a Collective Proposal submitted to the DAO in accordance with rule 10.2.
+    4. Stewards selected by TNL are not eligible to receive compensation from the DAO or working groups for their work as a Steward.
 11. **Amendments**
-   1. These rules may be amended at any time by passing a Social Proposal.
+    1. These rules may be amended at any time by passing a Social Proposal.
 
 ## Next Steps
 
