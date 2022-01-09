@@ -10,3 +10,4 @@
   * [\[EP2\] \[Executable\] Retrospective airdrop for accounts that owned another account’s primary ENS 1](governance-proposals/ep2-executable-retrospective-airdrop-for-accounts-that-owned-another-accounts-primary-ens-1.md)
   * [\[EP3\] \[Social\] Amend airdrop proposal to include accidentally returned funds](governance-proposals/ep3-social-amend-airdrop-proposal-to-include-accidentally-returned-funds.md)
   * [\[EP4\] \[Social\] Proposal: Creation of Foundational Working Groups and Working Group Rules](governance-proposals/ep4-social-proposal-creation-of-foundational-working-groups-and-working-group-rules.md)
+* [\[EP5\] \[Executable\] Set the temporary premium start price to $100,000](ep5-executable-set-the-temporary-premium-start-price-to-usd100-000.md)
