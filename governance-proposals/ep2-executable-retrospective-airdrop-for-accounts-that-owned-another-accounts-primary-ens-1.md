@@ -7,10 +7,10 @@ description: >-
 
 # \[EP2] \[Executable] Retrospective airdrop for accounts that owned another account’s primary ENS 1
 
-| **Status**            | Onchain Voting ends 2022-01-12                                                                                                                                                                                                                                                                                                           |
-| --------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Discussion Thread** | [Discuss](https://discuss.ens.domains/t/ep2-executable-retrospective-airdrop-for-accounts-that-owned-another-accounts-primary-ens-name/6755)                                                                                                                                                                                             |
-| **Votes**             | <p><a href="https://snapshot.org/#/ens.eth/proposal/0xcf77c74696cab1d939936ae8684c0007297bed641f60896ad186354f036d725f">Snapshot</a> passed on 2021-12-06<br><a href="https://www.withtally.com/governance/ens/proposal/90476529665364161211265365238121921179703522228680648046371476645353679539653">Onchain</a> opened 2022-01-05</p> |
+| **Status**            | **Queued for execution** - executes at 2022-01-14 20:11:25 UTC                                                                                                                                                                                                                                                                              |
+| --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Discussion Thread** | [Discuss](https://discuss.ens.domains/t/ep2-executable-retrospective-airdrop-for-accounts-that-owned-another-accounts-primary-ens-name/6755)                                                                                                                                                                                                |
+| **Votes**             | <p><a href="https://snapshot.org/#/ens.eth/proposal/0xcf77c74696cab1d939936ae8684c0007297bed641f60896ad186354f036d725f">Snapshot</a> passed on 2021-12-06<br><a href="https://www.withtally.com/governance/ens/proposal/90476529665364161211265365238121921179703522228680648046371476645353679539653">Onchain</a> passed on 2022-01-12</p> |
 
 ## Abstract
 
@@ -43,15 +43,3 @@ Further, a number of users have accidentally transferred their ENS tokens to the
 
 ## Code
 
-```
-const ethers = require('ethers');
-const abi = [
-  'function approve(address _spender, uint256 _value) public returns (bool success)'
-];
-const token = new ethers.Contract('0xC18360217D8F7Ab5e7c516566761Ea12Ce7F9D72', abi);
-const airdropAddress = 'TBD';
-const tx = await token.populateTransaction.approve(airdropAddress, '219295650978169915391391');
-console.log([token.address]);
-console.log([0]);
-console.log([tx.data]);
-```
