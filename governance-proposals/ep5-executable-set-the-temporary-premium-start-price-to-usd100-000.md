@@ -8,7 +8,7 @@ description: >-
 
 | **Status**            | Active                                                                                                                                |
 | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| **Discussion Thread** | [Discourse](https://discuss.ens.domains/t/executable-set-the-temporary-premium-start-price-to-100-000)                                |
+| **Discussion Thread** | [Discourse](https://discuss.ens.domains/t/ep5-executable-set-the-temporary-premium-start-price-to-100-000/9336)                                |
 | **Votes**             | [Snapshot](https://snapshot.org/#/ens.eth/proposal/0xf854140e16ab96eaed7bbd783f31b441ff5122efc8c002632396df9b7d20342d), closes Jan 15 |
 
 ## Abstract
