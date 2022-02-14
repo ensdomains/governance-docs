@@ -6,10 +6,10 @@ description: >-
 
 # \[EP5] \[Executable] Set the temporary premium start price to $100,000
 
-| **Status**            | Active                                                                                                                                |
-| --------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| **Status**            | Executed                                                                                                                                                                                                                                                                                                                                                                        |
+| --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Discussion Thread** | [Discourse](https://discuss.ens.domains/t/ep5-executable-set-the-temporary-premium-start-price-to-100-000/9336)                                |
-| **Votes**             | [Snapshot](https://snapshot.org/#/ens.eth/proposal/0xf854140e16ab96eaed7bbd783f31b441ff5122efc8c002632396df9b7d20342d), closes Jan 15 |
+| **Votes**             | <p><a href="https://snapshot.org/#/ens.eth/proposal/0xf854140e16ab96eaed7bbd783f31b441ff5122efc8c002632396df9b7d20342d">Snapshot</a>, passed Jan 15<br><a href="https://www.withtally.com/governance/eip155:1:0x323A76393544d5ecca80cd6ef2A560C6a395b7E3/proposal/65967822514040846992464797266243157509206510058326665394616765053720727454968">Onchain</a>, passed Jan 26</p> |
 
 ## Abstract
 
