@@ -25,9 +25,9 @@ The ENS Foundation has three directors: Nick Johnson, Brantly Millegan, and Kevi
 
 The ENS Foundation has one supervisor. The supervisor is an administrative role whose job is to make sure that the directors are doing their jobs in accordance with Cayman Islands law. The position of supervisor is filled by a Cayman Islands firm, DS Limited.
 
-The ENS Foundation's Articles of Incorporation give significant powers to the ENS DAO (referred to as "The Council" in the Articles). The DAO may vote to:
+The ENS Foundation's Articles of Incorporation give significant powers to the ENS DAO, a subset of ENS Tokenholders (referred to as "The Council" in the Articles). The DAO may vote, including ranked voting wherever applicable, to:
 
-* Appoint or remove a director, member, or supervisor.
+* Appoint or remove or replace a director, member, or supervisor.
 * Prohibit admitting any members in future.
 * Instruct the directors to wind up the foundation, and specify what charity or other foundation should receive the foundation's assets.
 
