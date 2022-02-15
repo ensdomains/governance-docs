@@ -1,6 +1,7 @@
 ---
 description: >-
-  The ENS DAO is a DAO that governs the ENS protocol. Here you will findimportant links and resources related to understanding and participating in
+  The ENS DAO is a DAO that governs the ENS protocol. Here you will find
+  important links and resources related to understanding and participating in
   the governance of ENS.
 ---
 
@@ -10,7 +11,7 @@ description: >-
 
 [**ENS homepage**](https://ens.domains): Where you can register and manage ENS names.\
 [**Twitter**](htps://twitter.com/endomains): The official ENS Twitter account\
-[**Discord**](https://chat.ens.domains): Where the users can get support and the community can hang out. \
+[**Discord**](https://chat.ens.domains): Where the users can get support and the community can hang out.\
 [**Newsletter**](https://ensdomains.substack.com): Where we catch up on what's been happening in the ENS community.
 
 ## $ENS Governance Token Airdrop
@@ -29,4 +30,4 @@ description: >-
 
 ## Onboarding & Participation
 
-[**Participation Request Form**](https://airtable.com/shrv2xP39SmuCcd5j): To request access for write-access for restricted categories of the Discourse Forum and Governance channels within the Discord Server, please fill in this form.\
+[**Participation Request Form**](https://airtable.com/shrv2xP39SmuCcd5j): To request access for write-access for restricted categories of the Discourse Forum and Governance channels within the Discord Server, please fill in this form.

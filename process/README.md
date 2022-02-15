@@ -32,9 +32,9 @@ There are also other governance interfaces that users can use to cast their vote
 
 ### Types of Proposal
 
-There are three main types of governance proposal you can make:
+There are three main types of governance proposals you can make:
 
-1. **Executable Proposal:** This is a proposal for a series of smart contract operations to be executed by accounts the DAO controls. These can include transfers of tokens as well as arbitrary smart contract calls. Examples of this include allocating funding to a workstream multisig wallet, or upgrading an ENS core contract. Executable proposals have a quorum requirement of 1% and a require a minimum approval of 50% to pass.
+1. **Executable Proposal:** This is a proposal for a series of smart contract operations to be executed by accounts the DAO controls. These can include transfers of tokens as well as arbitrary smart contract calls. Examples of this include allocating funding to a workstream multisig wallet, or upgrading an ENS core contract. Executable proposals have a quorum requirement of 1% and require a minimum approval of 50% to pass.
 2. **Social Proposal**: This is a proposal that asks for the agreement of the DAO on something that cannot be enforced onchain. Examples of this include a proposal to change the royalty percentage for the ENS secondary market on OpenSea, or a petition to the root keyholders. SocialS proposals have a quorum requirement of 1% and require a minimum approval of 50% to pass.
 3. **Constitutional Amendment**: This is a social proposal that asks the DAO to amend the constitution. Your draft proposal should include a [diff](https://en.wikipedia.org/wiki/Diff) showing the exact changes you propose to make to the constitution. Rules for amending the constitution are set in the constitution itself, and currently require a quorum of 1% and a minimum approval of two thirds to pass.
 
@@ -52,9 +52,9 @@ The purpose of the Draft Proposal is to establish formal discussion around a pot
 
 To create a Draft Proposal, create a new topic in the Draft Proposals subcategory of the appropriate workstream, using the template pinned to the top of the category. Link to your temperature check thread in the proposal draft; draft proposals that were not preceded by a temperature check may be removed by moderators.
 
-Reach out to your network to build support for the proposal. Discuss the proposal and solicit delegates to provide feedback on it. Be willing to respond to questions on the Consensus Check topic. Share your view point, although try to remain as impartial as possible.
+Reach out to your network to build support for the proposal. Discuss the proposal and solicit delegates to provide feedback on it. Be willing to respond to questions on the Consensus Check topic. Share your viewpoint, although try to remain as impartial as possible.
 
-If your proposal is an exectuable proposal, you will need to write the code for your proposal while it is in draft stage. You may wish to wait until the proposal is stable before doing this. Documentation on composing a proposal can be found [here](https://docs.openzeppelin.com/contracts/4.x/governance#proposal\_lifecycle).
+If your proposal is an executable proposal, you will need to write the code for your proposal while it is in draft stage. You may wish to wait until the proposal is stable before doing this. Documentation on composing a proposal can be found [here](https://docs.openzeppelin.com/contracts/4.x/governance#proposal\_lifecycle).
 
 If your proposal is a constitutional amendment, you will need to produce a diff showing the exact changes you are proposing to make. The easiest way to do this is to go to the [constitution](../ens-dao-constitution.md), click "Edit on GitHub", then click the pencil icon to edit the document in a fork. You can then create a pull request via the GitHub UI and include this in your proposal.
 
@@ -62,13 +62,13 @@ Once you are confident the proposal is in a stable state, you can proceed to pha
 
 ### **Phase 3: Active Proposal — Discourse / Governance Portal**
 
-Request that a moderator advance your proposal to a vote by tagging @moderators in a reply. They will:
+Request that a moderator advances your proposal to a vote by tagging @moderators in a reply. They will:
 
 1. Move your proposal from Draft Proposals to Active Proposals.
 2. Assign your proposal a proposal number in the form EP###.
 3. Create a snapshot vote for your proposal with a duration of 5 days, and link to it from your proposal post.
 
-If your proposal is an Social Proposal or a Constitutional Amendment, that's it! If the snapshot vote passes, the proposal is passed and you are done.
+If your proposal is a Social Proposal or a Constitutional Amendment, that's it! If the snapshot vote passes, the proposal is passed and you are done.
 
 If your proposal is an Executable Proposal, you will now need to submit it to the governor contract for voting onchain.
 
