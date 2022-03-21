@@ -18,3 +18,5 @@
   * [\[EP7.3\] \[Executable\] Q1 & Q2 2022 Community WG Budget](governance-proposals/ep7.3-executable-q1-and-q2-2022-community-wg-budget.md)
   * [\[EP7.4\] \[Executable\] Q1 & Q2 2022 Public Goods WG Budget](governance-proposals/ep7.4-executable-q1-and-q2-2022-public-goods-wg-budget.md)
   * [\[EP8\] \[Executable\] Reimburse True Names for expenses and tax obligations incurred for the DAO](governance-proposals/ep8-executable-reimburse-true-names-for-expenses-and-tax-obligations-incurred-for-the-dao.md)
+  * [\[EP9\]\[Executable\] Change to Exponential Premium Price Oracle](governance-proposals/ep9-executable-change-to-exponential-premium-price-oracle.md)
+  * [\[EP10\] \[Executable\] A DAO-Governed Identity Server](governance-proposals/ep10-executable-a-dao-governed-identity-server.md)
