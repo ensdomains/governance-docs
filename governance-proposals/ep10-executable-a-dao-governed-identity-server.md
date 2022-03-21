@@ -8,10 +8,10 @@ description: >-
 
 
 
-| **Status**  | Active                                                                                                                 |
-| ----------- | ---------------------------------------------------------------------------------------------------------------------- |
-| **Votes**   | [Snapshot](https://snapshot.org/#/ens.eth/proposal/0x104eb11d42813fadc2b408856e8fa2c10e34dbb4a87abaa2f089ece124263f16) |
-| **Authors** | [Gregory Rocco](https://github.com/obstropolos), [Wayne Chang](https://github.com/wyc)                                 |
+| **Status**  | Active                                                                                                                                                                                                                                                                                                                                                                           |
+| ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Votes**   | <p><a href="https://snapshot.org/#/ens.eth/proposal/0x104eb11d42813fadc2b408856e8fa2c10e34dbb4a87abaa2f089ece124263f16">Snapshot</a>, passed March 21, 2022<br><a href="https://www.withtally.com/governance/eip155:1:0x323A76393544d5ecca80cd6ef2A560C6a395b7E3/proposal/27850654116740852236526757351596115114486670304472932313768517382407193376455">Onchain</a>, active</p> |
+| **Authors** | [Gregory Rocco](https://github.com/obstropolos), [Wayne Chang](https://github.com/wyc)                                                                                                                                                                                                                                                                                           |
 
 ## Abstract
 
