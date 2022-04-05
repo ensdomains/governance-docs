@@ -40,7 +40,7 @@ RFPs vary in detail and complexity. An RFP for improving the DAO's documentation
 
 RFPs all follow this process:
  
- 1. Write a draft RFP (template here) and post it as a discussion thread in the appropriate working group on [the DAO forum](https://discuss.ens.domains/). At a minimum, RFPs must:
+ 1. Write a draft RFP ([template here](rfp-template.md)) and post it as a discussion thread in the appropriate working group on [the DAO forum](https://discuss.ens.domains/). At a minimum, RFPs must:
 
     a. Explain the need for the RFP and describe the work to be done - the scope of work and deliverables.
     
