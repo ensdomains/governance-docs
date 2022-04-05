@@ -43,15 +43,20 @@ RFPs all follow this process:
  1. Write a draft RFP (template here) and post it as a discussion thread in the appropriate working group on [the DAO forum](https://discuss.ens.domains/). At a minimum, RFPs must:
 
     a. Explain the need for the RFP and describe the work to be done - the scope of work and deliverables.
+    
     b. Specify the requirements for a winning bid - criteria for selection.
+    
     c. Provide a timeline for submissions and completion of the work.
+    
     d. Nominate a party who will select a winning bid and approve & disburse compensation (the RFP manager). Normally this will be the working group who adopts the RFP.
+    
     e. Specify a maximum budget for the RFP.
 
  3. Incorporate feedback from DAO participants into your draft. When you believe it is ready, tag the stewards of the working group and request they consider adopting it.
  4. If the stewards agree to adopt your RFP, they will decide if it can be paid out of WG funds, or if it needs a DAO wide vote.
 
      a. If the RFP can be paid out of WG funds, they will set a submission period and post it as an active RFP.
+     
      b. Otherwise, the stewards will create an executable proposal (or, they may ask you to do this) asking the DAO as a whole to approve the RFP. The proposal should contain the RFP. The executable component should specify approvals from the DAO funds to the RFP manager in the amount of the maximum budget for the proposal.
  5. Once the RFP is approved - either by the WG or by a DAO-wide vote - the submission period begins. You or a WG steward should create a post on the DAO forum for proposals, and anyone can submit a proposal to this thread.
  6. Once the submission period is concluded, the RFP manager selects a winning bid. Normally the manager will be the stewards of the working group who has adopted your RFP.
