@@ -34,39 +34,39 @@ There are also other governance interfaces that users can use to cast their vote
 
 There are three main types of governance proposals you can make:
 
-1. **Executable Proposal:** This is a proposal for a series of smart contract operations to be executed by accounts the DAO controls. These can include transfers of tokens as well as arbitrary smart contract calls. Examples of this include allocating funding to a workstream multisig wallet, or upgrading an ENS core contract. Executable proposals have a quorum requirement of 1% and require a minimum approval of 50% to pass.
-2. **Social Proposal**: This is a proposal that asks for the agreement of the DAO on something that cannot be enforced onchain. Examples of this include a proposal to change the royalty percentage for the ENS secondary market on OpenSea, or a petition to the root keyholders. SocialS proposals have a quorum requirement of 1% and require a minimum approval of 50% to pass.
-3. **Constitutional Amendment**: This is a social proposal that asks the DAO to amend the constitution. Your draft proposal should include a [diff](https://en.wikipedia.org/wiki/Diff) showing the exact changes you propose to make to the constitution. Rules for amending the constitution are set in the constitution itself, and currently require a quorum of 1% and a minimum approval of two thirds to pass.
+1. **[Executable Proposal](executable-proposal-template.md):** This is a proposal for a series of smart contract operations to be executed by accounts the DAO controls. These can include transfers of tokens as well as arbitrary smart contract calls. Examples of this include allocating funding to a workstream multisig wallet, or upgrading an ENS core contract. Executable proposals have a quorum requirement of 1% and require a minimum approval of 50% to pass.
+2. **[Social Proposal](social-proposal-template.md)**: This is a proposal that asks for the agreement of the DAO on something that cannot be enforced onchain. Examples of this include a proposal to change the royalty percentage for the ENS secondary market on OpenSea, or a petition to the root keyholders. Social proposals have a quorum requirement of 1% and require a minimum approval of 50% to pass.
+3. **[Constitutional Amendment](constitutional-amendment-template.md)**: This is a social proposal that asks the DAO to amend the constitution. Your draft proposal should include a [diff](https://en.wikipedia.org/wiki/Diff) showing the exact changes you propose to make to the constitution. Rules for amending the constitution are set in the constitution itself, and currently require a quorum of 1% and a minimum approval of two thirds to pass.
 
 ### **Phase 1: Temperature Check — Discourse**
 
 The purpose of the Temperature Check is to determine if there is sufficient will to make changes to the status quo.
 
-To create a Temperature Check, ask a general, non-biased question to the community on [discuss.ens.domains](https://docs.ens.domains) about a potential change (example: “Should ENS decrease registration costs for 3-letter domains?”). Forum posts should be in the "Temperature Check" subcategory of the appropriate workstream.
+To create a Temperature Check, ask a general, non-biased question to the community on [discuss.ens.domains](https://docs.ens.domains) about a potential change (example: “Should ENS decrease registration costs for 3-letter domains?”). Forum posts should be in the "DAO-wide -> Temperature Check" category.
 
-Temperature checks are informal; it's up to you to use the feedback to decide if you want to proceed further with your proposal.
+Temperature checks are informal and optional; it's up to you to use the feedback to decide if you want to proceed further with your proposal.
 
-### **Phase 2: Draft Proposal — Discourse**
+### **Phase 2: Draft Proposal — GitHub**
 
 The purpose of the Draft Proposal is to establish formal discussion around a potential proposal.
 
-To create a Draft Proposal, create a new topic in the Draft Proposals subcategory of the appropriate workstream, using the template pinned to the top of the category. Link to your temperature check thread in the proposal draft; draft proposals that were not preceded by a temperature check may be removed by moderators.
+To create a Draft Proposal, [create a new governance proposal](https://github.com/ensdomains/governance-docs/new/main/governance-proposals) in the governance-docs repository on GitHub. Start by copying the template for an [executable proposal](executable-proposal-template.md), [social proposal](social-proposal-template.md), or [constitutional amendment](constitutional-amendment-template.md), as appropriate. Once you have written your proposal, create a Draft Pull Request for it. Start a new post in the DAO-wide -> Draft Proposals" category with a link to the PR for discussion.
 
-Reach out to your network to build support for the proposal. Discuss the proposal and solicit delegates to provide feedback on it. Be willing to respond to questions on the Consensus Check topic. Share your viewpoint, although try to remain as impartial as possible.
+Reach out to your network to build support for the proposal. Discuss the proposal and solicit delegates to provide feedback on it. Be willing to respond to questions on the Draft Proposal topic and in comments on the pull request. Share your viewpoint, although try to remain as impartial as possible.
 
-If your proposal is an executable proposal, you will need to write the code for your proposal while it is in draft stage. You may wish to wait until the proposal is stable before doing this. Documentation on composing a proposal can be found [here](https://docs.openzeppelin.com/contracts/4.x/governance#proposal\_lifecycle).
+If your proposal is an executable proposal, you will need to specify the actions your proposal will take while it is in draft stage. You may wish to wait until the proposal is stable before doing this. The executable proposal template explains how to do this.
 
-If your proposal is a constitutional amendment, you will need to produce a diff showing the exact changes you are proposing to make. The easiest way to do this is to go to the [constitution](../ens-dao-constitution.md), click "Edit on GitHub", then click the pencil icon to edit the document in a fork. You can then create a pull request via the GitHub UI and include this in your proposal.
+If your proposal is a constitutional amendment, you will need to produce a diff showing the exact changes you are proposing to make. The easiest way to do this is to go to the [constitution](../ens-dao-constitution.md), click "Edit on GitHub", then click the pencil icon to edit the document in a fork. You can then create a pull request via the GitHub UI and include this in your proposal. You should do this in a separate branch to your draft proposal; while the proposal will be merged as soon as it goes to a vote, the amendment will only be merged if the proposal passes.
 
 Once you are confident the proposal is in a stable state, you can proceed to phase 3.
 
-### **Phase 3: Active Proposal — Discourse / Governance Portal**
+### **Phase 3: Active Proposal — Snapshot / Governance Portal**
 
-Request that a moderator advances your proposal to a vote by tagging @moderators in a reply. They will:
+Use GitHub to flag your PR as Ready for Review. A contributor will:
 
-1. Move your proposal from Draft Proposals to Active Proposals.
+1. Merge your PR if it meets the requirements.
 2. Assign your proposal a proposal number in the form EP###.
-3. Create a snapshot vote for your proposal with a duration of 5 days, and link to it from your proposal post.
+3. Schedule the proposal for a snapshot vote.
 
 If your proposal is a Social Proposal or a Constitutional Amendment, that's it! If the snapshot vote passes, the proposal is passed and you are done.
 
