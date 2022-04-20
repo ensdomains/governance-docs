@@ -4,10 +4,10 @@ description: Ens the $ENS airdrop and EP2 airdrop by transferring tokens and rev
 
 # \[EP11] \[Executable] End the $ENS and EP2 airdrops
 
-| **Status**            | Pending                                                                                                                                      |
+| **Status**            | Active                                                                                                                                      |
 | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Discussion Thread** | [Discuss](https://discuss.ens.domains/t/should-the-dao-end-the-airdrop-on-or-shortly-after-may-4/12047)                                                                                                |
-| **Votes**             | Pending                                                                                                                                     |
+| **Votes**             | [Snapshot](https://snapshot.org/#/ens.eth/proposal/0x718c496b04017fb82749b68570d12f32c839f59b9f9433df127f48bf99121eb7), ends 2022-04-26                                                                                                                                     |
 
 # Abstract
 The $ENS airdrop can be terminated at any time on or after May 4, 2022 by a call from the DAO, transferring remaining tokens to an address it specifies. The EP2 airdrop can be terminated at any time by revoking the token approval given to it by the DAO. This EP proposes to execute both of these actions on or shortly after May 4, 2022.
