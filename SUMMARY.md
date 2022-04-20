@@ -20,3 +20,4 @@
   * [\[EP8\] \[Executable\] Reimburse True Names for expenses and tax obligations incurred for the DAO](governance-proposals/ep8-executable-reimburse-true-names-for-expenses-and-tax-obligations-incurred-for-the-dao.md)
   * [\[EP9\]\[Executable\] Change to Exponential Premium Price Oracle](governance-proposals/ep9-executable-change-to-exponential-premium-price-oracle.md)
   * [\[EP10\] \[Executable\] A DAO-Governed Identity Server](governance-proposals/ep10-executable-a-dao-governed-identity-server.md)
+  * [\[EP11\] \[Executable\] End the $ENS and EP2 airdrops](governance-proposals/ep11-executable-end-airdrop.md)
