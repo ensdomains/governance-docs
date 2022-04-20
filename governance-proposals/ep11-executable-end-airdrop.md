@@ -2,7 +2,7 @@
 description: Ens the $ENS airdrop and EP2 airdrop by transferring tokens and revoking approvals.
 ---
 
-# EP11 [Executable] End the $ENS and EP2 airdrops
+# \[EP11] \[Executable] End the $ENS and EP2 airdrops
 
 | **Status**            | Pending                                                                                                                                      |
 | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
