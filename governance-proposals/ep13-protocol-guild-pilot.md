@@ -48,7 +48,7 @@ To date, the membership includes over 110 Ethereum protocol contributors, includ
 
 The Guild contracts will act as an autonomous value routing mechanism, operated independently from any existing institution, purpose-built for incentivizing long-term core protocol work. At no point does PG take custody of funds on behalf of members, it is all handled trustlessly. The diagram below and the [docs](https://protocol-guild.readthedocs.io/en/latest/3-smart-contract.html) have more information.
 
-![|602x387](upload://ljGIwLgOUocSZY8sKlhUOC6uaOA.jpeg)
+![|602x387](https://user-images.githubusercontent.com/80278162/165815437-11646882-bac0-41bf-9709-e64880c96d82.png)
 
 ## 2022 Pilot
 
