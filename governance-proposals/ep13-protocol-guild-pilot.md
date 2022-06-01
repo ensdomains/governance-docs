@@ -94,7 +94,7 @@ We hope that a successful Pilot will pave the way for future funding collaborati
         <td rowspan=2>0</td>
         <td rowspan=2>transfer</td>
         <td>recipient</td>
-        <td></td>
+        <td>theprotocolguild.eth</td>
     </tr>
     <tr>
         <td>amount</td>
