@@ -9,7 +9,8 @@ description: >-
 
 | **Status**  | Active                                                                                                                                                                                                                                                                                                                                                                                        |
 | ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Votes**   | <p><a href="https://snapshot.org/#/ens.eth/proposal/0xc7186cf8bebe47600f8d847e76f7971ea97b48bc04eda1e07780aff91fb6410d">Snapshot</a></p>
+| **Discussion Thread** | [Discuss](https://discuss.ens.domains/t/ep12-social-working-group-rules/12953) |
+| **Votes**   | [Snapshot](https://snapshot.org/#/ens.eth/proposal/0xc7186cf8bebe47600f8d847e76f7971ea97b48bc04eda1e07780aff91fb6410d) |
 | **Authors** | [alisha.eth](https://github.com/futurealisha)                                                                                                                                                                                                                                                                                                         |
 
 ## Abstract
