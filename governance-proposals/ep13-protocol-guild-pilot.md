@@ -4,10 +4,11 @@ description: This is a proposal for the ENS DAO to support the Protocol Guild Pi
 
 # [Executable] Fund the Protocol Guild pilot with 200,000 $ENS
 
-| **Status**            | Pending                                                                                                                                      |
+| **Status**            | Active                                                                                                                                      |
 | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Discussion Thread** | [Discuss](https://discuss.ens.domains/t/draft-executable-support-the-protocol-guild-pilot/12877)                                                                                                |
 | **Votes**             | [Snapshot](https://snapshot.org/#/ens.eth/proposal/0x16f3d7010cacc892c134d34503cd340c1fd31cdbb79c3f8a9bedc12ae22de358)                                                                                                                                     |
+| **Authors** | [Trent Van Epps](https://twitter.com/trent_vanepps) (PG Member), [Tim Beiko](https://twitter.com/TimBeiko) (PG Member) |
 
 # Abstract
 We propose that 200k ENS (~3.7% of the [unclaimed airdrop](https://twitter.com/ensdomains/status/1522066354387718144)) be allocated in recognition of past and ongoing work of these core contributors.
