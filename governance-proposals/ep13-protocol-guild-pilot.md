@@ -7,7 +7,7 @@ description: This is a proposal for the ENS DAO to support the Protocol Guild Pi
 | **Status**            | Active                                                                                                                                      |
 | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Discussion Thread** | [Discuss](https://discuss.ens.domains/t/draft-executable-support-the-protocol-guild-pilot/12877)                                                                                                |
-| **Votes**             | [Snapshot](https://snapshot.org/#/ens.eth/proposal/0x16f3d7010cacc892c134d34503cd340c1fd31cdbb79c3f8a9bedc12ae22de358)                                                                                                                                     |
+| **Votes**             | [Snapshot]([https://snapshot.org/#/ens.eth/proposal/0x16f3d7010cacc892c134d34503cd340c1fd31cdbb79c3f8a9bedc12ae22de358](https://snapshot.org/#/ens.eth/proposal/0xe07284156fb063d5fba6b9fed50cc74fad36ea02c2ede0207434db476884104b))                                                                                                                                     |
 | **Authors** | [Trent Van Epps](https://twitter.com/trent_vanepps) (PG Member), [Tim Beiko](https://twitter.com/TimBeiko) (PG Member) |
 
 # Abstract
