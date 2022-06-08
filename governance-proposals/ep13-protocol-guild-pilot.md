@@ -1,33 +1,40 @@
 ---
-description: This is a proposal for the ENS DAO to support the Protocol Guild Pilot, a vested split contract which directs funding to 110 Ethereum core protocol contributors over one year.
+description: >-
+  This is a proposal for the ENS DAO to support the Protocol Guild Pilot, a
+  vested split contract which directs funding to 110 Ethereum core protocol
+  contributors over one year.
 ---
 
-# [Executable] Fund the Protocol Guild pilot with 200,000 $ENS
+# \[EP13] \[Executable] Fund the Protocol Guild pilot with 200,000 $ENS
 
-| **Status**            | Active                                                                                                                                      |
-| --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Discussion Thread** | [Discuss](https://discuss.ens.domains/t/draft-executable-support-the-protocol-guild-pilot/12877)                                                                                                |
-| **Votes**             | [Snapshot]([https://snapshot.org/#/ens.eth/proposal/0x16f3d7010cacc892c134d34503cd340c1fd31cdbb79c3f8a9bedc12ae22de358](https://snapshot.org/#/ens.eth/proposal/0xe07284156fb063d5fba6b9fed50cc74fad36ea02c2ede0207434db476884104b))                                                                                                                                     |
-| **Authors** | [Trent Van Epps](https://twitter.com/trent_vanepps) (PG Member), [Tim Beiko](https://twitter.com/TimBeiko) (PG Member) |
+## \[Executable] Fund the Protocol Guild pilot with 200,000 $ENS
 
-# Abstract
-We propose that 200k ENS (~3.7% of the [unclaimed airdrop](https://twitter.com/ensdomains/status/1522066354387718144)) be allocated in recognition of past and ongoing work of these core contributors.
+| **Status**            | Active                                                                                                                                                                                                                                                                                                                                                               |
+| --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Discussion Thread** | [Discuss](https://discuss.ens.domains/t/draft-executable-support-the-protocol-guild-pilot/12877)                                                                                                                                                                                                                                                                     |
+| **Votes**             | <p><a href="[https:/snapshot.org#/ens.eth/proposal/0x16f3d7010cacc892c134d34503cd340c1fd31cdbb79c3f8a9bedc12ae22de358](https://snapshot.org/#/ens.eth/proposal/0xe07284156fb063d5fba6b9fed50cc74fad36ea02c2ede0207434db476884104b)">Snapshot</a> - passed <br><a href="https://www.tally.xyz/proposal/940d9d0e-14e6-43a2-810f-6250de538f00">Onchain</a> - active</p> |
+| **Authors**           | [Trent Van Epps](https://twitter.com/trent\_vanepps) (PG Member), [Tim Beiko](https://twitter.com/TimBeiko) (PG Member)                                                                                                                                                                                                                                              |
+
+## Abstract
+
+We propose that 200k ENS (\~3.7% of the [unclaimed airdrop](https://twitter.com/ensdomains/status/1522066354387718144)) be allocated in recognition of past and ongoing work of these core contributors.
 
 ENS is one of the most successful projects built on Ethereum, and yet core protocol contributors do not benefit in any way from the success of projects being built on Ethereum. The Protocol Guild provides a vehicle for the ENS community to distribute governance tokens to those individuals who build and maintain the foundational infrastructure that ENS relies on.
 
 ENS sponsorship of the Guild allows members to engage with ENS in a way that is values- and incentive-aligned. Simultaneously, it will allow them to continue the important work of scaling our shared infrastructure and making it as resilient as possible for the applications on top of it.
 
-# Specification
-## Useful links
+## Specification
 
-* [Protocol Guild Docs](https://protocol-guild.readthedocs.io/en/latest/index.html#)
+### Useful links
+
+* [Protocol Guild Docs](https://protocol-guild.readthedocs.io/en/latest/index.html)
 * [1 Year Vesting Contract](https://app.0xsplits.xyz/accounts/0xF29Ff96aaEa6C9A1fBa851f74737f3c069d4f1a9/)
 * [Split Contract](https://app.0xsplits.xyz/accounts/0x84af3D5824F0390b9510440B6ABB5CC02BB68ea1/)
 * [Initial Announcement - Dec 2021](https://stateful.mirror.xyz/mEDvFXGCKdDhR-N320KRtsq60Y2OPk8rHcHBCFVryXY)
 * [List of Members](https://protocol-guild.readthedocs.io/en/latest/9-membership.html)
 * [Protocol Guild twitter](https://twitter.com/ProtocolGuild)
 
-## Context
+### Context
 
 1. As a credibly neutral, maximally uncapturable infrastructure with no block reward, the Ethereum base protocol doesn’t offer the same token incentives to contributors as applications or L2s can. However, the protocol still needs to attract and retain talent to continue to evolve. As the broader ecosystem continues to grow, competition for talented individuals will only increase. This isn’t to fault individuals for rationally weighting financial incentives, or protocols for leveraging the power of tokens - this is just the reality of the current context. We also acknowledge that financial motivations aren’t the only or best motivator for people, it’s just one tool in our toolset that is currently underleveraged.
 2. Existing public goods funding solutions tend to be either too narrow or broad in scope, fail to exclusively target core protocol contributors, or depend on an intermediating institution, which often leads to organizations, and not individuals, being recipients of funds.
@@ -37,7 +44,7 @@ Here’s a longer exploration of the [project rationale](https://protocol-guild.
 
 If we believe what we are building is important, then we should structure the incentives to attract more smart people to work on it. After all, “Ethereum is an unprecedented arena for playing cooperative games”; we should try to manifest the novel possibilities made possible by this arena. ([Griffith, 2019](https://medium.com/@virgilgr/ethereum-is-game-changing-technology-literally-d67e01a01cf8))
 
-## What is the Protocol Guild?
+### What is the Protocol Guild?
 
 The Protocol Guild aims to address the challenges mentioned above with a simple tool: a weighted split contract that includes vesting. Members will solicit sponsorships in the form of tokens from applications & protocols that build on Ethereum, which gives core contributors exposure to success at the application layer:
 
@@ -51,15 +58,15 @@ The Guild contracts will act as an autonomous value routing mechanism, operated 
 
 ![|602x387](https://user-images.githubusercontent.com/80278162/165815437-11646882-bac0-41bf-9709-e64880c96d82.png)
 
-## 2022 Pilot
+### 2022 Pilot
 
 Since starting the project in Nov 2021, we’ve built norms around member onboarding , refined the splitting and vesting mechanisms, and created extensive documentation on how PG operates.
 
 At this point, we’re ready to test the mechanism’s efficacy with a 1 year / $10-20mm Pilot. We want to make sure the mechanism operates smoothly before graduating to a full-scale fundraising round for longer vesting periods. The funds for the Pilot would be vested directly to Guild members over one year: see the [Pilot vesting contract here](https://app.0xsplits.xyz/accounts/0xF29Ff96aaEa6C9A1fBa851f74737f3c069d4f1a9/).
 
-## Proposal
+### Proposal
 
-We are proposing that 200k ENS (~3.7% of the [unclaimed airdrop](https://twitter.com/ensdomains/status/1522066354387718144)) be sent to the [Pilot vesting contract](https://app.0xsplits.xyz/accounts/0xF29Ff96aaEa6C9A1fBa851f74737f3c069d4f1a9/) deployed at 0xF29…f1a9 in recognition of the past and ongoing work of these core contributors.
+We are proposing that 200k ENS (\~3.7% of the [unclaimed airdrop](https://twitter.com/ensdomains/status/1522066354387718144)) be sent to the [Pilot vesting contract](https://app.0xsplits.xyz/accounts/0xF29Ff96aaEa6C9A1fBa851f74737f3c069d4f1a9/) deployed at 0xF29…f1a9 in recognition of the past and ongoing work of these core contributors.
 
 The tokens would not be liquidated, but would vest for one year to each beneficiary listed on the underlying split. Each recipient would be making an independent decision about how to use their tokens once vested.
 
@@ -72,7 +79,7 @@ There are a few reasons why supporting the Protocol Guild benefits the ENS commu
   * EVM improvements: new functionality for developers like [EOF](https://notes.ethereum.org/@ipsilon/evm-object-format-overview)
   * [Statelessness](https://notes.ethereum.org/@gballet/Sy-a6T5St): sustainable management for state growth
   * Supporting L2 scaling: [EIP-4844](https://eips.ethereum.org/EIPS/eip-4844), [EIP-4488](https://eips.ethereum.org/EIPS/eip-4488)
-  * [Proposer Builder Separation](https://notes.ethereum.org/@vbuterin/pbs_censorship_resistance): reducing centralizing incentives for consensus participants
+  * [Proposer Builder Separation](https://notes.ethereum.org/@vbuterin/pbs\_censorship\_resistance): reducing centralizing incentives for consensus participants
   * Continuous client maintenance: improving sync, exploring new database types, researching modular clients
   * Coordinating network upgrades: making sure the community helps to shape and is aware of network upgrades
 * Having exposure to ENS allows protocol contributors to engage more with ENS governance. Members will be encouraged (but not obligated) to delegate them within the ENS governance framework.
@@ -81,24 +88,10 @@ There are a few reasons why supporting the Protocol Guild benefits the ENS commu
 
 We hope that a successful Pilot will pave the way for future funding collaborations between the ENS community and the Protocol Guild as we scale up the project after the Pilot. To that end, we think it’s important to demonstrate impact: learn more about how we intend to evaluate [Pilot outcomes here](https://protocol-guild.readthedocs.io/en/latest/5-initial-pilot.html). We have also adopted an active stance of continuous adjustments to improve PG while we operate the Pilot: improving documentation, resources for members, better transparency, etc.
 
-# Transactions
-<table>
-    <tr>
-        <th>Address</th>
-        <th>Value</th>
-        <th>Function</th>
-        <th>Argument</th>
-        <th>Value</th>
-    </tr>
-    <tr>
-        <td rowspan=2>token.ensdao.eth</td>
-        <td rowspan=2>0</td>
-        <td rowspan=2>transfer</td>
-        <td>recipient</td>
-        <td>theprotocolguild.eth</td>
-    </tr>
-    <tr>
-        <td>amount</td>
-        <td>200000000000000000000000</td>
-    </tr>
-</table>
+## Transactions
+
+| Address          | Value                    | Function | Argument  | Value                |
+| ---------------- | ------------------------ | -------- | --------- | -------------------- |
+| token.ensdao.eth | 0                        | transfer | recipient | theprotocolguild.eth |
+| amount           | 200000000000000000000000 |          |           |                      |
+
