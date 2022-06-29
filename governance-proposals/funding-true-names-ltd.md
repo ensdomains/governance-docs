@@ -11,9 +11,12 @@ Description: A proposal to fund TNL for continuing development and improvement o
 
 # Abstract
 
-  True Names Ltd (“TNL”) developed the Ethereum Name Service (“ENS”) protocol; continues to manage the development of the ENS Protocol and solely focuses on this work. TNL initiated the creation of the ENS DAO with the object of 1) furthering the development of the ENS Protocol and 2) funding public goods projects.
+  True Names Ltd (“TNL”) developed the Ethereum Name Service (“ENS”) protocol, continues to manage the development of the ENS Protocol and solely focuses on this project. Incubated at the Ethereum Foundation in 2017, TNL spun out in 2018 with the charge of designing and deploying THE next generation naming service. TNL is now a growing team of web3 enthusiasts from across the globe working together to support the ENS Ecosystem that now has a passionate community that has registered over 1 million ENS names and uses more than 500 integrations. 
+
+In 2021, TNL initiated the creation of the ENS DAO with the goal of 1) furthering the development of the ENS Protocol and 2) funding public goods projects.
+
  
-In consideration of the work completed thus far in calendar year 2022 and the work in the months and years to come, per Article III of the ENS Constitution, True Names Ltd respectfully requests a monthly grant of $350,000 USD for continuing development and improvement of the ENS system.
+In consideration of the work completed thus far this calendar year and the work in the months and years to come, per Article III of the ENS Constitution, True Names Ltd respectfully requests an evergreen grant stream that will allow the organization to continue the development and improvement of the ENS Protocol. For Calendar Year 2022, this request will amount to $4,197,500 USDC which is equivalent to a daily stream of $11,500 USDC. In Q1 of each year, TNL or the ENS Dao may make requests to alter and/or terminate this evergreen grant stream.
 
 # Specification
 We request that the ENS DAO approve a daily grant of $11,500 USDC to True Names Ltd, backdated to January 1st, 2022.
