@@ -4,10 +4,10 @@ Description: A proposal to fund TNL for continuing development and improvement o
 
 # [Executable] Funding True Names Ltd
 
-| **Status**            | Pending                                                                                                                                      |
+| **Status**            | Active                                                                                                                                      |
 | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Discussion Thread** | [Discuss](https://discuss.ens.domains/t/...)                                                                                                |
-| **Votes**             | Pending                                                                                                                                     |
+| **Votes**             | [Onchain](https://www.tally.xyz/governance/eip155:1:0x323A76393544d5ecca80cd6ef2A560C6a395b7E3/proposal/112764562576314516994943312429834673309292069549953740415731020720942627228986)                                                                                                                                     |
 
 # Abstract
 
