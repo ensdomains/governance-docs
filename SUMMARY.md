@@ -23,3 +23,4 @@
   * [\[EP11\] \[Executable\] End the $ENS and EP2 airdrops](governance-proposals/ep11-executable-end-airdrop.md)
   * [\[EP12\] \[Social\] Working Group Rules](governance-proposals/ep12-working-group-rules.md)
   * [\[EP13\] \[Executable\] Fund the Protocol Guild pilot with 200,000 $ENS](governance-proposals/ep13-protocol-guild-pilot.md)
+  * [\[EP14\] \[Executable\] Funding True Names Ltd](governance-proposals/ep14-funding-true-names-ltd.md)
