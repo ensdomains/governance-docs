@@ -24,3 +24,6 @@
   * [\[EP12\] \[Social\] Working Group Rules](governance-proposals/ep12-working-group-rules.md)
   * [\[EP13\] \[Executable\] Fund the Protocol Guild pilot with 200,000 $ENS](governance-proposals/ep13-protocol-guild-pilot.md)
   * [\[EP14\] \[Executable\] Funding True Names Ltd](governance-proposals/ep14-funding-true-names-ltd.md)
+  * [\[EP16.1\] \[Executable\] Q3 & Q4 2022 Meta-Governance WG Budget](governance-proposals/ep16.1-executable-q3-and-q4-2022-meta-governance-wg-budget.md)
+  * [\[EP16.2\] \[Executable\] Q3 & Q4 2022 Ecosystem WG Budget](governance-proposals/ep16.2-executable-q3-and-q4-2022-ens-ecosystem-wg-budget.md)
+  * [\[EP16.3\] \[Executable\] Q3 & Q4 2022 Public Goods WG Budget](governance-proposals/ep16.3-executable-q3-and-q4-2022-public-goods-wg-budget.md)
