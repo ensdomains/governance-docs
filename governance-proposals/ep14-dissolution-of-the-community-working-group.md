@@ -1,19 +1,21 @@
 ---
 Summary: >-
-  This is a proposal to dissolve the Community Working Group at the conclusion of the First Term (Q1/Q2) of 2022.
+  Dissolve the Community Working Group at the conclusion of the First Term (Q1/Q2) of 2022.
 ---
 
-# \[EP14] \[Social] Dissolve Community Working Group
+# \[EP15] \[Social] Dissolve Community Working Group
 
 
 
 | **Status**  | Active                                                                                                                                                                                                                                                                                                                                                                                        |
 | ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Discussion Thread** | [Discuss](https://discuss.ens.domains/t/draft-social-dissolve-community-working-group/12982) |
-| **Vote**   | [Snapshot](https://snapshot.org/#/ens.eth/proposal/0xa64ec8b446e509cb4b75092c4a714897790b70e2711fc3d6afa969c250e7eb92) - Active |
+| **Vote**   | [Snapshot](https://snapshot.org/#/ens.eth/proposal/0xa64ec8b446e509cb4b75092c4a714897790b70e2711fc3d6afa969c250e7eb92) - Passed |
 | **Authors** | [alisha.eth](https://twitter.com/futurealisha)                                                                                                                                                                                                                                                                                                         |
 
 ## Description
+
+This was previously numbered EP14, but was renumbered due to a numbering collision.
 
 This is a proposal to dissolve the Community Working Group at the conclusion of the First Term of 2022 in accordance with rule 3.1 of the working group rules passed under EP 4. 
 
