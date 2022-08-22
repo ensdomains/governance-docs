@@ -4,12 +4,14 @@ description: >-
   "Foundation Company.").
 ---
 
-# \[EP6.1] \[Social] Removal of Brantly Millegan as Director of the ENS Foundation
+# \[EP1.2.1] \[Social] Removal of Brantly Millegan as Director of the ENS Foundation
 
-| **Status**            | Pending                                                                                                                                       |
+| **Status**            | Failed                                                                                                                                        |
 | --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Discussion Thread** | [Discourse](https://discuss.ens.domains/t/ep6-1-social-removal-of-brantly-millegan-as-director-of-the-ens-foundation/11092/4)                 |
 | **Votes**             | [Snapshot](https://snapshot.org/#/ens.eth/proposal/0xa9a2dc5a52ea54b478c4c5fea88540622dff7ad5000f8d146dff482c6e6b6055), opened March 1st 2022 |
+
+_Note: This was previously numbered EP6.1._
 
 ### Abstract
 

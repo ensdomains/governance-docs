@@ -2,12 +2,14 @@
 description: Amend EP2 to include funds accidentally sent back to the $ENS token contract.
 ---
 
-# \[EP3] \[Social] Amend airdrop proposal to include accidentally returned funds
+# \[EP0.3] \[Social] Amend airdrop proposal to include accidentally returned funds
 
 | **Status**            | Passed                                                                                                                                      |
 | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Discussion thread** | [Discuss](https://discuss.ens.domains/t/ep3-social-amend-airdrop-proposal-to-include-accidentally-returned-funds/6975)                      |
 | **Votes**             | [Snapshot](https://snapshot.org/#/ens.eth/proposal/0x9ab53c76cee40d58cb27b244dfa5f9f2763bd8b97b1b4be1dd0f0bf706818fb4) passed on 2021-12-12 |
+
+_Note: This was previously numbered EP3._
 
 ## Abstract
 

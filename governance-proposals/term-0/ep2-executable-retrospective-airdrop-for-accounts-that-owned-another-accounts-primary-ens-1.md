@@ -5,12 +5,14 @@ description: >-
   name. As amended by EP3.
 ---
 
-# \[EP2] \[Executable] Retrospective airdrop for accounts that owned another account’s primary ENS 1
+# \[EP0.2] \[Executable] Retrospective airdrop for accounts that owned another account’s primary ENS 1
 
 | **Status**            | Executed                                                                                                                                                                                                                                                                                                                                    |
 | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Discussion Thread** | [Discuss](https://discuss.ens.domains/t/ep2-executable-retrospective-airdrop-for-accounts-that-owned-another-accounts-primary-ens-name/6755)                                                                                                                                                                                                |
 | **Votes**             | <p><a href="https://snapshot.org/#/ens.eth/proposal/0xcf77c74696cab1d939936ae8684c0007297bed641f60896ad186354f036d725f">Snapshot</a> passed on 2021-12-06<br><a href="https://www.withtally.com/governance/ens/proposal/90476529665364161211265365238121921179703522228680648046371476645353679539653">Onchain</a> passed on 2022-01-12</p> |
+
+_Note: This was previously numbered EP2._
 
 ## Abstract
 

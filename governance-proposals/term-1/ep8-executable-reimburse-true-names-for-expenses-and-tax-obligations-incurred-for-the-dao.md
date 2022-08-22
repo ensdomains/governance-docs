@@ -4,12 +4,14 @@ description: >-
   ENS and the DAO.
 ---
 
-# \[EP8] \[Executable] Reimburse True Names for expenses and tax obligations incurred for the DAO
+# \[EP1.4] \[Executable] Reimburse True Names for expenses and tax obligations incurred for the DAO
 
 | **Status**            | Executed                                                                                                                                                                                                                                                                                                                                                                                         |
 | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Discussion Thread** | [Discourse](https://discuss.ens.domains/t/ep8-executable-reimburse-true-names-for-expenses-and-tax-obligations-incurred-on-behalf-of-the-dao/10053)                                                                                                                                                                                                                                              |
 | **Votes**             | <p><a href="https://snapshot.org/#/ens.eth/proposal/0xdf7e59e58ab0cf5ee0a591bd65369db3ee5091ae3b7ca696a0d31c2eac9959f5">Snapshot</a>, passed March 6th 2022<br><a href="https://www.withtally.com/governance/eip155:1:0x323A76393544d5ecca80cd6ef2A560C6a395b7E3/proposal/82659277767818009782194204088226418907972756681918239480374274857360772298879">Onchain</a>, passed March 30th 2022</p> |
+
+_Note: This was previously numbered EP8._
 
 ## Abstract
 

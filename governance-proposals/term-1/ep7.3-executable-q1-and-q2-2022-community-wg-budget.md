@@ -1,9 +1,11 @@
-# \[EP7.3] \[Executable] Q1 & Q2 2022 Community WG Budget
+# \[EP1.3.3] \[Executable] Q1 & Q2 2022 Community WG Budget
 
 | **Status**            | Executed                                                                                                                                                                                                                                                                                                                                                                                        |
 | --------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Discussion Thread** | [Discourse](https://discuss.ens.domains/t/ep-7-3-executable-q1-q2-2022-community-working-group-budget-request/11046/5)                                                                                                                                                                                                                                                                          |
 | **Votes**             | <p><a href="https://snapshot.org/#/ens.eth/proposal/0x29040b3196c4d7109fdb7b55b8bfd5e85dd074d3cb22266e0d94cc42cfad1eb2">Snapshot</a>, passed March 6th 2022<br><a href="https://www.withtally.com/governance/eip155:1:0x323A76393544d5ecca80cd6ef2A560C6a395b7E3/proposal/115615865324623814833258987703837575663427750121726187103053182962864855260310">Onchain</a>, passed March 29 2022</p> |
+
+_Note: This was previously numbered EP7.3._
 
 ### Summary
 

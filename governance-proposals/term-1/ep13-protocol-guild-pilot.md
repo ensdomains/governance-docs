@@ -5,15 +5,15 @@ description: >-
   contributors over one year.
 ---
 
-# \[EP13] \[Executable] Fund the Protocol Guild pilot with 200,000 $ENS
+# \[EP1.9] \[Executable] Fund the Protocol Guild pilot with 200,000 $ENS
 
-## \[Executable] Fund the Protocol Guild pilot with 200,000 $ENS
+| **Status**            | Executed                                                                                                                                                                                                                                                                                                                                                                |
+| --------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Discussion Thread** | [Discuss](https://discuss.ens.domains/t/draft-executable-support-the-protocol-guild-pilot/12877)                                                                                                                                                                                                                                                                        |
+| **Votes**             | <p><a href="../[https:/snapshot.org#/ens.eth/proposal/0x16f3d7010cacc892c134d34503cd340c1fd31cdbb79c3f8a9bedc12ae22de358](https://snapshot.org/#/ens.eth/proposal/0xe07284156fb063d5fba6b9fed50cc74fad36ea02c2ede0207434db476884104b)">Snapshot</a> - passed <br><a href="https://www.tally.xyz/proposal/940d9d0e-14e6-43a2-810f-6250de538f00">Onchain</a> - passed</p> |
+| **Authors**           | [Trent Van Epps](https://twitter.com/trent\_vanepps) (PG Member), [Tim Beiko](https://twitter.com/TimBeiko) (PG Member)                                                                                                                                                                                                                                                 |
 
-| **Status**            | Active                                                                                                                                                                                                                                                                                                                                                               |
-| --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Discussion Thread** | [Discuss](https://discuss.ens.domains/t/draft-executable-support-the-protocol-guild-pilot/12877)                                                                                                                                                                                                                                                                     |
-| **Votes**             | <p><a href="[https:/snapshot.org#/ens.eth/proposal/0x16f3d7010cacc892c134d34503cd340c1fd31cdbb79c3f8a9bedc12ae22de358](https://snapshot.org/#/ens.eth/proposal/0xe07284156fb063d5fba6b9fed50cc74fad36ea02c2ede0207434db476884104b)">Snapshot</a> - passed <br><a href="https://www.tally.xyz/proposal/940d9d0e-14e6-43a2-810f-6250de538f00">Onchain</a> - active</p> |
-| **Authors**           | [Trent Van Epps](https://twitter.com/trent\_vanepps) (PG Member), [Tim Beiko](https://twitter.com/TimBeiko) (PG Member)                                                                                                                                                                                                                                              |
+_Note: This was previously numbered EP13._
 
 ## Abstract
 

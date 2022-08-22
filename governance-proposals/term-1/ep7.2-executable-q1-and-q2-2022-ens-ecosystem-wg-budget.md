@@ -1,9 +1,11 @@
-# \[EP7.2] \[Executable] Q1 & Q2 2022 ENS Ecosystem WG Budget
+# \[EP1.3.2] \[Executable] Q1 & Q2 2022 ENS Ecosystem WG Budget
 
 | **Status**            | Executed                                                                                                                                                                                                                                                                                                                                                                                          |
 | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Discussion Thread** | [Discourse](https://discuss.ens.domains/t/q1-q2-2022-ecosystem-working-group-budget-request/10195)                                                                                                                                                                                                                                                                                                |
 | **Votes**             | <p><a href="https://snapshot.org/#/ens.eth/proposal/0x8b68ebc34b590488000bd5a73c7fe1e66e7d405ab26eda7c0c8191230363d4d0">Snapshot</a>, passed March 6th 2022<br><a href="https://www.withtally.com/governance/eip155:1:0x323A76393544d5ecca80cd6ef2A560C6a395b7E3/proposal/115615865324623814833258987703837575663427750121726187103053182962864855260310">Onchain</a>, passed March 29th 2022</p> |
+
+_Note: This was previously numbered EP7.2._
 
 ## Summary
 

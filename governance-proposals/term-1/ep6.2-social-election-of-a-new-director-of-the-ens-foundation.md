@@ -2,12 +2,14 @@
 description: This proposal is for the election of a new Director of the ENS Foundation.
 ---
 
-# \[EP6.2] \[Social] Election of a new Director of The ENS Foundation
+# \[EP1.2.2] \[Social] Election of a new Director of The ENS Foundation
 
-| **Status**            | Pending                                                                                                                                       |
+| **Status**            | Failed                                                                                                                                        |
 | --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Discussion Thread** | [Discourse](https://discuss.ens.domains/t/ep6-2-social-election-of-a-new-director-of-the-ens-foundation/11093/19)                             |
 | **Votes**             | [Snapshot](https://snapshot.org/#/ens.eth/proposal/0xc4bc562d32e59a528dec301261e8d2b3b0c6880c2b782201c2e9f1ff3979d165), opened March 1st 2022 |
+
+_Note: This was previously numbered EP6.2._
 
 ### Abstract
 

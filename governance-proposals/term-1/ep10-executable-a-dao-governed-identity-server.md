@@ -4,7 +4,7 @@ description: >-
   Identity Provider Server for Sign-In with Ethereum, maintained by Spruce.
 ---
 
-# \[EP10] \[Executable] A DAO-Governed Identity Server
+# \[EP1.6] \[Executable] A DAO-Governed Identity Server
 
 
 
@@ -12,6 +12,8 @@ description: >-
 | ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Votes**   | <p><a href="https://snapshot.org/#/ens.eth/proposal/0x104eb11d42813fadc2b408856e8fa2c10e34dbb4a87abaa2f089ece124263f16">Snapshot</a>, passed March 21, 2022<br><a href="https://www.withtally.com/governance/eip155:1:0x323A76393544d5ecca80cd6ef2A560C6a395b7E3/proposal/82659277767818009782194204088226418907972756681918239480374274857360772298879">Onchain</a>, passed March 31, 2022</p> |
 | **Authors** | [Gregory Rocco](https://github.com/obstropolos), [Wayne Chang](https://github.com/wyc)                                                                                                                                                                                                                                                                                                          |
+
+_Note: This was previously numbered EP10._
 
 ## Abstract
 

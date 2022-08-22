@@ -1,4 +1,4 @@
-# \[EP7.1] \[Executable] Q1 & Q2 2022 Meta-Governance WG Budget
+# \[EP1.3.1] \[Executable] Q1 & Q2 2022 Meta-Governance WG Budget
 
 
 
@@ -6,6 +6,8 @@
 | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Discussion Thread** | [Discourse](https://discuss.ens.domains/t/q1-q2-meta-governance-working-group-budget-request/11101)                                                                                                                                                                                                                                                                                               |
 | **Votes**             | <p><a href="https://snapshot.org/#/ens.eth/proposal/0x90a5f884d59a647a5a78aad8023cf0c00d9efb8499bced7009c60ad90b5e2041">Snapshot</a>, passed March 6th 2022<br><a href="https://www.withtally.com/governance/eip155:1:0x323A76393544d5ecca80cd6ef2A560C6a395b7E3/proposal/115615865324623814833258987703837575663427750121726187103053182962864855260310">Onchain</a>, passed March 29th 2022</p> |
+
+_Note: This was previously numbered EP7.1._
 
 ### Summary
 

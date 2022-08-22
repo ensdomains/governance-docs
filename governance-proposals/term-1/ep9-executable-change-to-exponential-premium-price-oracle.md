@@ -4,12 +4,14 @@ description: >-
   Linear Price Oracle Contract.
 ---
 
-# \[EP9]\[Executable] Change to Exponential Premium Price Oracle
+# \[EP1.5]\[Executable] Change to Exponential Premium Price Oracle
 
 | **Status**  | Executed                                                                                                                                                                                                                                                                                                                                                                                   |
 | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Votes**   | <p><a href="https://snapshot.org/#/ens.eth/proposal/0xe040bdae812af4bd5b3b6e3f46ed1ff4701986c338b827ac8f05807c2b9b9d73">Snapshot</a>, passed March 21, 2022<br><a href="https://www.tally.xyz/governance/eip155:1:0x323A76393544d5ecca80cd6ef2A560C6a395b7E3/proposal/107166664722174233740232174220463354481004128961821575530758100250899337476509">Tally</a>, passed April 26, 2022</p> |
 | **Authors** | Jeff Lau                                                                                                                                                                                                                                                                                                                                                                                   |
+
+_Note: This was previously numbered EP9._
 
 ## Abstract
 

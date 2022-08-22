@@ -1,9 +1,11 @@
-# \[EP7.4] \[Executable] Q1 & Q2 2022 Public Goods WG Budget
+# \[EP1.3.4] \[Executable] Q1 & Q2 2022 Public Goods WG Budget
 
 | **Status**            | Executed                                                                                                                                                                                                                                                                                                                                                                                        |
 | --------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Discussion Thread** | [Discourse](https://discuss.ens.domains/t/draft-q1-q2-2022-public-goods-working-group-budget-request/11022)                                                                                                                                                                                                                                                                                     |
 | **Votes**             | <p><a href="https://snapshot.org/#/ens.eth/proposal/0x8c05add423e7ab5900113b203326286763d402f88300ebbe65c278ed2488b8d1">Snapshot</a>, passed March 6th 2022<br><a href="https://www.withtally.com/governance/eip155:1:0x323A76393544d5ecca80cd6ef2A560C6a395b7E3/proposal/115615865324623814833258987703837575663427750121726187103053182962864855260310">Onchain</a>, passed March 29 2022</p> |
+
+_Note: This was previously numbered EP7.4._
 
 ## Summary
 
