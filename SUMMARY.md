@@ -30,3 +30,4 @@
     * [\[EP2.2.1\] \[Executable\] Q3 & Q4 2022 Meta-Governance WG Budget](governance-proposals/term-2/ep16.1-executable-q3-and-q4-2022-meta-governance-wg-budget.md)
     * [\[EP2.2.2\] \[Executable\] Q3 & Q4 2022 Ecosystem WG Budget](governance-proposals/term-2/ep16.2-executable-q3-and-q4-2022-ens-ecosystem-wg-budget.md)
     * [\[EP2.2.3\] \[Executable\] Q3 & Q4 2022 Public Goods WG Budget](governance-proposals/term-2/ep16.3-executable-q3-and-q4-2022-public-goods-wg-budget.md)
+    * [\[EP2.2.4\] \[Social\] ENS Endaoment RFP](governance-proposals/term-2/ep2.2.4-social-ens-endaoment-rfp.md)
