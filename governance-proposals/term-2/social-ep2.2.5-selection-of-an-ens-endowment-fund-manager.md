@@ -5,7 +5,7 @@
 | **Status**            | Pending                                                                                                                                             |
 | --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Discussion Thread** | [Discuss](https://discuss.ens.domains/t/social-ep2-2-5-selection-of-an-ens-endowment-fund-manager/15188)                                            |
-| **Votes**             | [Snapshot](https://snapshot.org/#/ens.eth/proposal/0x49d26b86f40798e46b0dd7c092e454e493b80839121ff1243259f106844ae738), starts 2022-11-18 00:00 UTC |
+| **Votes**             | [Snapshot](https://snapshot.org/#/ens.eth/proposal/0x1ab7ef84f6e904582d5b5b921944b5b1a8e36dbff1f1248fde87fef02b046816), starts 2022-11-18 00:00 UTC |
 
 ## Abstract
 
@@ -36,6 +36,6 @@ The table below summarizes the final submissions made by each candidate.
 | -------------------------------------------------------------------------------------------------- | --------------- | ---------------- | --------------- | ----------------- | ---------------- |
 | [Avantgarde](https://discuss.ens.domains/t/endaoment-proposal-avantgarde/14800?u=nick.eth)         | 25,000 ETH      | $100,000,000 USD | 12.5%           | 0.5%              | 0.57%            |
 | [Karpatkey](https://discuss.ens.domains/t/endaoment-proposal-karpatkey-steakhouse-financial/14799) | $52,000,000 USD | $69,000,000 USD  | 10%             | 0.5%              | 0.56%            |
-| [Llama](https://discuss.ens.domains/t/endaoment-proposal-llama-x-alastor/14813)                    | 30,000 ETH      | $80,000,000 USD  | 0%              | 1% min. $500k USD | 1% - 1.28%       |
+| [Llama](https://discuss.ens.domains/t/updated-endaoment-proposal-llama-x-alastor/15183)            | 30,000 ETH      | $80,000,000 USD  | 0%              | 1% min. $500k USD | 1% - 1.28%       |
 
 Breakeven return is calculated as `admin_fee / (1 - performance_fee)`.
