@@ -31,3 +31,4 @@
     * [\[EP2.2.2\] \[Executable\] Q3 & Q4 2022 Ecosystem WG Budget](governance-proposals/term-2/ep16.2-executable-q3-and-q4-2022-ens-ecosystem-wg-budget.md)
     * [\[EP2.2.3\] \[Executable\] Q3 & Q4 2022 Public Goods WG Budget](governance-proposals/term-2/ep16.3-executable-q3-and-q4-2022-public-goods-wg-budget.md)
     * [\[EP2.2.4\] \[Social\] ENS Endaoment RFP](governance-proposals/term-2/ep2.2.4-social-ens-endaoment-rfp.md)
+    * [\[Social\] \[EP2.2.5\] Selection of an ENS endowment fund manager](governance-proposals/term-2/social-ep2.2.5-selection-of-an-ens-endowment-fund-manager.md)
