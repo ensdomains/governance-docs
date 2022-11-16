@@ -1,9 +1,11 @@
 # \[Social] \[EP2.2.5] Selection of an ENS endowment fund manager
 
-| **Status**            | Pending                                                                                                  |
-| --------------------- | -------------------------------------------------------------------------------------------------------- |
-| **Discussion Thread** | [Discuss](https://discuss.ens.domains/t/social-ep2-2-5-selection-of-an-ens-endowment-fund-manager/15188) |
-| **Votes**             | Pending                                                                                                  |
+
+
+| **Status**            | Pending                                                                                                                                             |
+| --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Discussion Thread** | [Discuss](https://discuss.ens.domains/t/social-ep2-2-5-selection-of-an-ens-endowment-fund-manager/15188)                                            |
+| **Votes**             | [Snapshot](https://snapshot.org/#/ens.eth/proposal/0x49d26b86f40798e46b0dd7c092e454e493b80839121ff1243259f106844ae738), starts 2022-11-18 00:00 UTC |
 
 ## Abstract
 
