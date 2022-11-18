@@ -4,7 +4,7 @@ description: RFP for an endowment fund manager
 
 # \[EP2.2.4] \[Social] ENS Endaoment RFP
 
-| **Status** | Active  |
+| **Status** | Passed  |
 | ---------- | ------- |
 | **Votes**  | Pending |
 
