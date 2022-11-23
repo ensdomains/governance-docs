@@ -2,7 +2,7 @@
 
 
 
-| **Status**            | Active                                                                                                                 |
+| **Status**            | Passed (winner: Karpatkey)                                                                                             |
 | --------------------- | ---------------------------------------------------------------------------------------------------------------------- |
 | **Discussion Thread** | [Discuss](https://discuss.ens.domains/t/social-ep2-2-5-selection-of-an-ens-endowment-fund-manager/15188)               |
 | **Votes**             | [Snapshot](https://snapshot.org/#/ens.eth/proposal/0x1ab7ef84f6e904582d5b5b921944b5b1a8e36dbff1f1248fde87fef02b046816) |
