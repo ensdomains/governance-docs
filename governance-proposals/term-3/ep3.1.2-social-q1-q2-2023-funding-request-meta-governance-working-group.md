@@ -6,7 +6,7 @@ description: >-
 
 # \[EP3.1.2] \[Social] Q1/Q2 2023 Funding Request: Meta-Governance Working Group
 
-| **Status**            | Active                                                                                                                              |
+| **Status**            | Passed                                                                                                                              |
 | --------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
 | **Discussion Thread** | [Discuss](https://discuss.ens.domains/t/ep3-1-2-social-q1-q2-2023-funding-request-meta-governance-working-group/15940?u=alisha.eth) |
 | **Votes**             | [Snapshot](https://snapshot.org/#/ens.eth/proposal/0xd7eff781be059513b5cd64d79e709abbbc653944c9a8c621dc051e7b42a405cb)              |

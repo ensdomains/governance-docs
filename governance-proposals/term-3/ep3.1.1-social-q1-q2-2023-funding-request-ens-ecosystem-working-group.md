@@ -6,7 +6,7 @@ description: >-
 
 # \[EP3.1.1] \[Social] Q1/Q2 2023 Funding Request: ENS Ecosystem Working Group
 
-| **Status**            | Active                                                                                                                           |
+| **Status**            | Passed                                                                                                                           |
 | --------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
 | **Discussion Thread** | [Discuss](https://discuss.ens.domains/t/ep3-1-1-social-q1-q2-2023-funding-request-ens-ecosystem-working-group/15938?u=slobo.eth) |
 | **Votes**             | [Snapshot](https://snapshot.org/#/ens.eth/proposal/0x5788bf0f52ce82a1d3f7750a80f3001671ded49e4e0239dbbafd154275c78f8b)           |

@@ -1,4 +1,4 @@
-# \[Social] \[EP2.2.5] Selection of an ENS endowment fund manager
+# \[EP2.2.5] \[Social] Selection of an ENS endowment fund manager
 
 
 
