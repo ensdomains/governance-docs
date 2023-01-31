@@ -4,10 +4,10 @@ description: This proposal executes funding for Working Groups for Q1/Q2 2023.
 
 # \[EP3.2] \[Executable] Q1/Q2 2023 Working Group Funding
 
-| **Status**            | Pending                                                                                                                                            |
+| **Status**            | Active                                                                                                                                             |
 | --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Discussion Thread** | Discuss                                                                                                                                            |
-| **Votes**             | Tally                                                                                                                                              |
+| **Discussion Thread** | [Discuss](https://discuss.ens.domains/t/ep-3-2-executable-q1-q2-2023-working-group-funding/16123)                                                  |
+| **Votes**             | [Tally](https://www.tally.xyz/gov/ens/proposal/105292919185331921858643224173178583901390266903267892669205105842869373522526)                     |
 | **Authors**           | [Slobo.eth](https://twitter.com/AlexSlobodnik), [Katherine Wu](https://twitter.com/katherineykwu), [Coltron.eth](https://twitter.com/Coltron\_eth) |
 
 ## Abstract
