@@ -36,3 +36,5 @@
     * [\[EP3.1.1\] \[Social\] Q1/Q2 2023 Funding Request: ENS Ecosystem Working Group](governance-proposals/term-3/ep3.1.1-social-q1-q2-2023-funding-request-ens-ecosystem-working-group.md)
     * [\[EP3.1.2\] \[Social\] Q1/Q2 2023 Funding Request: Meta-Governance Working Group](governance-proposals/term-3/ep3.1.2-social-q1-q2-2023-funding-request-meta-governance-working-group.md)
     * [\[EP3.1.3\] \[Social\] Q1/Q2 2023 Funding Request: Public Goods Working Group](governance-proposals/term-3/ep3.1.3-social-q1-q2-2023-funding-request-public-goods-working-group.md)
+    * [\[EP3.2\] \[Executable\] Q1/Q2 2023 Working Group Funding](governance-proposals/term-3/ep3.2-executable-q1-q2-2023-working-group-funding.md)
+    * [\[EP3.3\] \[Executable\] Sell ETH to USDC](governance-proposals/term-3/ep3.3-executable-sell-eth-to-usdc.md)

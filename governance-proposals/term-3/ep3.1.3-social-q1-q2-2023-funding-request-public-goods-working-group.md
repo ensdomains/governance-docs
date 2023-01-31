@@ -10,6 +10,7 @@ description: >-
 | --------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
 | **Discussion Thread** | [Discuss](https://discuss.ens.domains/t/ep3-1-3-social-q1-q2-2023-funding-request-public-goods-working-group/15941?u=alisha.eth) |
 | **Votes**             | [Snapshot](https://snapshot.org/#/ens.eth/proposal/0x41b3509b88e15677aa15680f48278517f794822fb9a79b9c621def53f1866be7)           |
+| **Author**            | [Coltron.eth](https://twitter.com/Coltron\_eth)                                                                                  |
 
 ## Abstract
 

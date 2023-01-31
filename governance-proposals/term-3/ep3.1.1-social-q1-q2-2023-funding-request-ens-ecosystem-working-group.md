@@ -10,6 +10,7 @@ description: >-
 | --------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
 | **Discussion Thread** | [Discuss](https://discuss.ens.domains/t/ep3-1-1-social-q1-q2-2023-funding-request-ens-ecosystem-working-group/15938?u=slobo.eth) |
 | **Votes**             | [Snapshot](https://snapshot.org/#/ens.eth/proposal/0x5788bf0f52ce82a1d3f7750a80f3001671ded49e4e0239dbbafd154275c78f8b)           |
+| **Author**            | [Slobo.eth](https://twitter.com/AlexSlobodnik)                                                                                   |
 
 ## Abstract
 
