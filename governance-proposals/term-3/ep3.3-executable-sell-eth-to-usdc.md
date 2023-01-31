@@ -22,7 +22,7 @@ The DAO currently keeps almost 100% of its spendable treasury in ETH. While ENS 
 
 This is a proposal to convert 10,000 ETH into USDC through a Cowswap swap.
 
-10,000 ETH is approximately 25% of the total amount of ETH held by the ENS DAO (wallet.ensdao.eth 12) and register controller (controller.ens.eth 4) as of January 18, 2023.
+10,000 ETH is approximately 25% of the total amount of ETH held by the ENS DAO (wallet.ensdao.eth) and register controller (controller.ens.eth) as of January 18, 2023.
 
 It is hoped that this sale will generate in excess of $13m in USDC. The goal is to ensure that the DAO has enough USDC to cover operations for the next 18 - 24 months.
 
