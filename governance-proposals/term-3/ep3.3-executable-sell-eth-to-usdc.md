@@ -6,11 +6,11 @@ description: >-
 
 # \[EP3.3] \[Executable] Sell ETH to USDC
 
-| **Status**            | Pending                                          |
-| --------------------- | ------------------------------------------------ |
-| **Discussion Thread** | Discuss                                          |
-| **Votes**             | Tally                                            |
-| **Author**            | [James.eth](https://twitter.com/blockchainjames) |
+| **Status**            | Active                                                                                                                        |
+| --------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| **Discussion Thread** | [Discuss](https://discuss.ens.domains/t/ep3-3-executable-sell-eth-into-usdc/15906)                                            |
+| **Votes**             | [Tally](https://www.tally.xyz/gov/ens/proposal/45461903078948131870051132081249892009497709518413744958551889217805827301425) |
+| **Author**            | [James.eth](https://twitter.com/blockchainjames)                                                                              |
 
 ## Abstract
 
