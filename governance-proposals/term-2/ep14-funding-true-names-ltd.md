@@ -10,7 +10,7 @@ Description: >-
 
 | **Status**            | Executed                                                                                                                                                                                |
 | --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Discussion Thread** | [Discuss](https://discuss.ens.domains/t/...)                                                                                                                                            |
+| **Discussion Thread** | [Discuss](https://discuss.ens.domains/t/ep14-executable-funding-true-names-ltd/13391)                                                                                                   |
 | **Votes**             | [Onchain](https://www.tally.xyz/governance/eip155:1:0x323A76393544d5ecca80cd6ef2A560C6a395b7E3/proposal/112764562576314516994943312429834673309292069549953740415731020720942627228986) |
 
 _Note: This was previously numbered EP14._
