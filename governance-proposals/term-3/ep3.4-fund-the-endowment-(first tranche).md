@@ -41,7 +41,7 @@ If the Endowment is funded through this first tranche, karpatkey will allocate t
  2. Transfer 150 ETH to ens-metagov.pod.xyz (0x91c32893216dE3eA0a55ABb9851f581d4503d39b) to cover Endowment fees for Q1/Q2
 
 Addresses:
- - 0xFe89cc7aBB2C4183683ab71653C4cdc9B02D44b7 - dao.ens.eth
+ - 0xFe89cc7aBB2C4183683ab71653C4cdc9B02D44b7 - ENS DAO
  - 0x4F2083f5fBede34C2714aFfb3105539775f7FE64 - endowment 
  - 0x91c32893216dE3eA0a55ABb9851f581d4503d39b  - ens-metagov.pod.xyz
 
