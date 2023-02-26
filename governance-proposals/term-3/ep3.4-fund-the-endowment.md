@@ -2,8 +2,9 @@
 
 | **Status**            | Draft              |
 | --------------------- | ----------------------------------- |
+| **Status** | Active |
 | **Discussion Thread** | [Discuss](https://discuss.ens.domains/t/endowment-initiation/15952/1) |
-| **Votes**             | Tally                |
+| **Votes**             | [Onchain](https://www.tally.xyz/gov/ens/proposal/90786656233306599444783442367171420493182391933134906270328139870999449830964)                |
 | **Authors**             | @karpatkey, @Steakhouse                |
 
 # Abstract
