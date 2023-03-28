@@ -13,10 +13,10 @@ We will also replace the current reverse registrar with a new reverse registrar 
 # Specification
 New instances of the Name Wrapper, Reverse Registrar, and .eth registrar controller have been deployed to mainnet at these addresses:
 
- - NameWrapper: `0x6d372bA84722826A29EA564d1daFBFf4e87dB67A`
- - ReverseRegistrar: `0x22d350A65ef25F9596dcdb8A3A5212fa5bad345F`
- - ETHRegistrarController: `0xE077c349814d07C470E5f8edB984de4576Bcc620`
- - PublicResolver: `0x32791cDe1C343C5982EB66445e9d43FC3b92D201`
+ - NameWrapper: `0xD4416b13d2b3a9aBae7AcD5D6C2BbDBE25686401`
+ - ReverseRegistrar: `0xa58E81fe9b61B5c3fE2AFD33CF304c454AbFc7Cb`
+ - ETHRegistrarController: `0x253553366Da8546fC250F225fe3d25d0C782303b`
+ - PublicResolver: `0x231b0Ee14048e9dCcD1d247744d114a4EB5E8E63`
 
 They have been configured, and ownership has been transferred to the DAO.The new Public Resolver is set as the default resolver on the reverse registrar.
 
@@ -30,13 +30,13 @@ This executable proposal will execute the following calls to complete the contra
 
 | Address                                    | Value | Function        | Argument    | Value                                                              |
 | ------------------------------------------ | ----- | --------------- | ----------- | ------------------------------------------------------------------ |
-| 0x57f1887a8BF19b14fC0dF6Fd9B2acc9Af147eA85 |       | addController   | controller  | 0x6d372bA84722826A29EA564d1daFBFf4e87dB67A                         |
+| 0x57f1887a8BF19b14fC0dF6Fd9B2acc9Af147eA85 |       | addController   | controller  | 0xD4416b13d2b3a9aBae7AcD5D6C2BbDBE25686401                         |
 | 0x00000000000C2E074eC69A0dFb2997BA6C7d2e1e |       | setSubnodeOwner | node        | 0xa097f6721ce401e757d1223a763fef49b8b5f90bb18567ddb86fd205dff71d34 |
 |                                            |       |                 | labelhash   | 0xe5e14487b78f85faa6e1808e89246cf57dd34831548ff2e6097380d98db2504a |
-|                                            |       |                 | owner       | 0x22d350A65ef25F9596dcdb8A3A5212fa5bad345F                         |
+|                                            |       |                 | owner       | 0xa58E81fe9b61B5c3fE2AFD33CF304c454AbFc7Cb                         |
 | 0x30200e0cb040f38e474e53ef437c95a1be723b2b |       | setInterface    | node        | 0x93cdeb708b7545dc668eb9280176169d1c33cfd8ed6f04690a0bcc88a93fc4ae |
 |                                            |       |                 | interfaceId | 0x019a38fe                                                         |
-|                                            |       |                 | implementer | 0x6d372ba84722826a29ea564d1dafbff4e87db67a                         |
+|                                            |       |                 | implementer | 0xD4416b13d2b3a9aBae7AcD5D6C2BbDBE25686401                         |
 | 0x30200e0cb040f38e474e53ef437c95a1be723b2b |       | setInterface    | node        | 0x93cdeb708b7545dc668eb9280176169d1c33cfd8ed6f04690a0bcc88a93fc4ae |
 |                                            |       |                 | interfaceId | 0x612e8c09                                                         |
-|                                            |       |                 | implementer | 0x30200e0cb040f38e474e53ef437c95a1be723b2b                         |
+|                                            |       |                 | implementer | 0x253553366Da8546fC250F225fe3d25d0C782303b                         |
