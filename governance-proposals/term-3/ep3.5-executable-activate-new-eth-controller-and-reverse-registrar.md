@@ -1,22 +1,25 @@
-# [EP3.5][Executable] Activate new .eth Controller and Reverse Registrar
+# \[EP3.5] \[Executable] Activate new .eth Controller and Reverse Registrar
 
-| **Status**            | Active |
-| **Discussion Thread** | [Discuss](https://discuss.ens.domains/t/...) |
-| **Votes**             | Pending |
+| **Status**            | Active                                                                                                                          |
+| --------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| **Discussion Thread** | [Discuss](https://discuss.ens.domains/t/endowment-initiation/15952/1)                                                           |
+| **Votes**             | [Onchain](https://www.tally.xyz/gov/ens/proposal/90786656233306599444783442367171420493182391933134906270328139870999449830964) |
+| **Authors**           | Jeff Lau, Nick Johnson                                                                                                          |
 
-# Abstract
+## Abstract
 
 With the new Name Wrapper, we will add a new .eth controller that allows registering wrapped names directly as well as registering with multiple records and adding a reverse record in 1 transaction. This will reduce the transactions required from 4 to 2 (for adding records + reverse). This will be added as a controller to the NameWrapper, and the NameWrapper will be added as the new controller of the existing .eth Base Registrar.
 
 We will also replace the current reverse registrar with a new reverse registrar which allows the new controller to set the reverse on registration, as well as adds support for the owner of contract to retrospectively claim their reverse node.
 
-# Specification
+## Specification
+
 New instances of the Name Wrapper, Reverse Registrar, and .eth registrar controller have been deployed to mainnet at these addresses:
 
- - NameWrapper: `0xD4416b13d2b3a9aBae7AcD5D6C2BbDBE25686401`
- - ReverseRegistrar: `0xa58E81fe9b61B5c3fE2AFD33CF304c454AbFc7Cb`
- - ETHRegistrarController: `0x253553366Da8546fC250F225fe3d25d0C782303b`
- - PublicResolver: `0x231b0Ee14048e9dCcD1d247744d114a4EB5E8E63`
+* NameWrapper: `0xD4416b13d2b3a9aBae7AcD5D6C2BbDBE25686401`
+* ReverseRegistrar: `0xa58E81fe9b61B5c3fE2AFD33CF304c454AbFc7Cb`
+* ETHRegistrarController: `0x253553366Da8546fC250F225fe3d25d0C782303b`
+* PublicResolver: `0x231b0Ee14048e9dCcD1d247744d114a4EB5E8E63`
 
 They have been configured, and ownership has been transferred to the DAO.The new Public Resolver is set as the default resolver on the reverse registrar.
 
@@ -26,7 +29,7 @@ This executable proposal will execute the following calls to complete the contra
 2. Call `ens.setSubnodeOwner(namehash('reverse'), labelhash('addr'), newReverseRegistrarAddress)`
 3. Call `setInterface` on the resolver for .eth with the interface IDs and contract addresses of the new .eth registrar controller and namewrapper. This is used as part of the discovery mechanism by the ENS manager app and others in order to locate the new contracts.
 
-# Transactions
+## Transactions
 
 | Address                                    | Value | Function        | Argument    | Value                                                              |
 | ------------------------------------------ | ----- | --------------- | ----------- | ------------------------------------------------------------------ |
