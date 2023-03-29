@@ -39,3 +39,5 @@
     * [\[EP3.2\] \[Executable\] Q1/Q2 2023 Working Group Funding](governance-proposals/term-3/ep3.2-executable-q1-q2-2023-working-group-funding.md)
     * [\[EP3.3\] \[Executable\] Sell ETH to USDC](governance-proposals/term-3/ep3.3-executable-sell-eth-to-usdc.md)
     * [\[EP3.4\] \[Executable\] Fund the Endowment (first tranche)](governance-proposals/term-3/ep3.4-fund-the-endowment.md)
+    * [\[EP3.5\] \[Executable\] Activate new .eth Controller and Reverse Registrar](governance-proposals/term-3/ep3.5-executable-activate-new-eth-controller-and-reverse-registrar.md)
+
