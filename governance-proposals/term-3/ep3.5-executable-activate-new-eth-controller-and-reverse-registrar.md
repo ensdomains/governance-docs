@@ -1,10 +1,10 @@
 # \[EP3.5] \[Executable] Activate new .eth Controller and Reverse Registrar
 
-| **Status**            | Active                                                                                                                          |
-| --------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
-| **Discussion Thread** | [Discuss](https://discuss.ens.domains/t/ep3-5-executable-activate-new-eth-controller-and-reverse-registrar/16776)               |
-| **Votes**             | [Onchain](https://www.tally.xyz/gov/ens/proposal/90786656233306599444783442367171420493182391933134906270328139870999449830964) |
-| **Authors**           | Jeff Lau, Nick Johnson                                                                                                          |
+| **Status**            | Executed                                                                                                                                |
+| --------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| **Discussion Thread** | [Discuss](https://discuss.ens.domains/t/ep3-5-executable-activate-new-eth-controller-and-reverse-registrar/16776)                       |
+| **Votes**             | [Onchain](https://www.tally.xyz/gov/ens/proposal/90786656233306599444783442367171420493182391933134906270328139870999449830964), passed |
+| **Authors**           | Jeff Lau, Nick Johnson                                                                                                                  |
 
 ## Abstract
 
