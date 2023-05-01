@@ -40,4 +40,4 @@
     * [\[EP3.3\] \[Executable\] Sell ETH to USDC](governance-proposals/term-3/ep3.3-executable-sell-eth-to-usdc.md)
     * [\[EP3.4\] \[Executable\] Fund the Endowment (first tranche)](governance-proposals/term-3/ep3.4-fund-the-endowment.md)
     * [\[EP3.5\] \[Executable\] Activate new .eth Controller and Reverse Registrar](governance-proposals/term-3/ep3.5-executable-activate-new-eth-controller-and-reverse-registrar.md)
-
+    * [\[EP3.6\] \[Social\] Election of new ENS Foundation director](governance-proposals/term-3/ep3.6-social-election-of-new-ens-foundation-director.md)
