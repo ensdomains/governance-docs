@@ -4,7 +4,7 @@ description: This is a vote to elect a new director of the ENS Foundation.
 
 # \[EP3.6] \[Social] Election of new ENS Foundation director
 
-| **Status**            | Active                                                                                                                 |
+| **Status**            | Passed (elected: Alex Van de Sande)                                                                                    |
 | --------------------- | ---------------------------------------------------------------------------------------------------------------------- |
 | **Discussion Thread** | [Discuss](https://discuss.ens.domains/t/ep3-6-social-election-of-new-ens-foundation-director/17008)                    |
 | **Vote**              | [Snapshot](https://snapshot.org/#/ens.eth/proposal/0x3c6b192eb2e990d74125d82ef886a1ec9e7373f4f768ed5b4adc23a03c26d649) |
