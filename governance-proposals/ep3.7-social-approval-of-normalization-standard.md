@@ -3,7 +3,7 @@ description: >-
   This proposal requests social approval of ENSIP-15: Normalization Standard.
 ---
 
-# \[EP3.7] \[Social] Approval of Normalization Standard
+# \[EP3.7] \[Social] Approval of ENS Name Normalization Standard (ENSIP-15)
 
 | **Status**            | Draft |
 | --------------------- | --- |
@@ -62,4 +62,4 @@ This vote is a single choice vote. You may vote for one of the following options
 * **Against**
 * **Abstain**
 
-By voting **For** this proposal, you are voting in favor of approving ENSIP-15. 
+By voting **For** this proposal, you are voting in favor of approving [ENSIP-15](https://docs.ens.domains/ens-improvement-proposals/ensip-15-normalization-standard).
