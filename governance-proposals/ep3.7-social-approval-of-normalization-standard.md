@@ -1,6 +1,6 @@
 ---
 description: >-
-	This proposal requests social approval of ENSIP-15: Normalization Standard.
+  This proposal requests social approval of ENSIP-15: Normalization Standard.
 ---
 
 # \[EP3.7] \[Social] Approval of Normalization Standard
