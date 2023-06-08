@@ -5,7 +5,7 @@ description: >-
 
 # \[EP3.7] \[Social] Approval of Normalization Standard
 
-| **Status**            | Pending |
+| **Status**            | Draft |
 | --------------------- | --- |
 | **Discussion Thread** | [Discuss](https://discuss.ens.domains/t/draft-approval-of-ens-name-normalization-standard/16957/) |
 | **Votes**             | Pending |
@@ -53,7 +53,7 @@ This is a vote to approve [ENSIP-15: Normalization Standard.](https://docs.ens.d
 		1. Javascript — [web3/web3.js](https://github.com/web3/web3.js)
 		1. Javascript — [wagmi-dev/viem](https://github.com/wagmi-dev/viem)
 * Names visible to the end-user should be [**beautified**](https://docs.ens.domains/ens-improvement-proposals/ensip-15-normalization-standard#annex-beautification) for a more consistent appearance.
-   * Example: These are the same emoji:<br><img src="https://i.imgur.com/p7rxUrE.png" width="256">
+   * Example: These labels are the same:<br><img src="https://i.imgur.com/p7rxUrE.png" width="256">
 
 ### Voting 
 
