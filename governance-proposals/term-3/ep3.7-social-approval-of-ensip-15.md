@@ -8,7 +8,7 @@ description: >-
 | **Status**            | Draft |
 | --------------------- | --- |
 | **Discussion Thread** | [Discuss](https://discuss.ens.domains/t/draft-approval-of-ens-name-normalization-standard/16957/) |
-| **Votes**             | Pending |
+| **Votes**             | [Snapshot](https://snapshot.org/#/ens.eth/proposal/0xed7bbde7c1136cbb5b9090a0abd48438c97a020b9e8a1e8f6257a46d068aa2e0) |
 | **Authors**           | [raffy.eth](https://twitter.com/adraffy), [alisha.eth](https://twitter.com/futurealisha) |
 
 ## Abstract
