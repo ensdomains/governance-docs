@@ -7,6 +7,8 @@ description: >-
 
 # The ENS Foundation
 
+##
+
 ## Why have a legal entity?
 
 Having a legal entity that represents the DAO in the "real world" is valuable for a number of reasons:
@@ -53,3 +55,7 @@ For transparency, important documents relating to the Foundation can be found be
 {% file src=".gitbook/assets/Certificate of Incorporation - The ENS Foundation - 26 October 2021.pdf" %}
 
 {% file src=".gitbook/assets/Dir Res - Stage 2 - The ENS Foundation (27.10.21).pdf" %}
+
+{% file src=".gitbook/assets/Resignation and appointment of a director.pdf" %}
+
+{% file src=".gitbook/assets/Brantly resignation.pdf" %}
