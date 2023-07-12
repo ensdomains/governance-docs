@@ -41,3 +41,4 @@
     * [\[EP3.4\] \[Executable\] Fund the Endowment (first tranche)](governance-proposals/term-3/ep3.4-fund-the-endowment.md)
     * [\[EP3.5\] \[Executable\] Activate new .eth Controller and Reverse Registrar](governance-proposals/term-3/ep3.5-executable-activate-new-eth-controller-and-reverse-registrar.md)
     * [\[EP3.6\] \[Social\] Election of new ENS Foundation director](governance-proposals/term-3/ep3.6-social-election-of-new-ens-foundation-director.md)
+    * [\[EP3.7\] \[Social\] Approval of ENS Name Normalization Standard (ENSIP-15)](governance-proposals/term-3/ep3.7-social-approval-of-ens-name-normalization-standard-ensip-15.md)
