@@ -1,10 +1,10 @@
 # \[EP4.1] \[Executable] Approve further actions and strategies for the Endowment
 
-| **Status**            | Pending                                                                                                                   |
-| --------------------- | ------------------------------------------------------------------------------------------------------------------------- |
-| **Discussion Thread** | [Discuss](https://discuss.ens.domains/t/ep-4-1-executable-approve-further-actions-and-strategies-for-the-endowment/17406) |
-| **Vote**              | [Onchain](https://www.tally.xyz/gov/ens/proposal/55447465396737793905646186593156244424717001140618132725073945884287085787959)                                                                                                                   |
-| **Authors**           | [Karpatkey](https://twitter.com/karpatkey)                                                                                |
+| **Status**            | Active                                                                                                                          |
+| --------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| **Discussion Thread** | [Discuss](https://discuss.ens.domains/t/ep-4-1-executable-approve-further-actions-and-strategies-for-the-endowment/17406)       |
+| **Vote**              | [Onchain](https://www.tally.xyz/gov/ens/proposal/55447465396737793905646186593156244424717001140618132725073945884287085787959) |
+| **Authors**           | [Karpatkey](https://twitter.com/karpatkey)                                                                                      |
 
 ## Abstract
 
