@@ -53,7 +53,4 @@ We are also sharing the [payload](https://gist.github.com/santinomics/bb6b345ff9
 
 # Transactions
 
-| Address | Value | Function | Argument | Value |
-| ------- | ----- | -------- | -------- | ----- |
-|         |       |          |          |       |
-|         |       |          |          |       |
+All transactions can be found in the following [payload](https://gist.github.com/santinomics/bb6b345ff977e7451ff0506e253ebc4c).
