@@ -1,4 +1,4 @@
-# [Executable] Fund the Endowment (second tranche)
+# [EP4.2][Executable] Fund the Endowment (second tranche)
 
 | **Status**            | Pending                                                                                                |
 | --------------------- | ------------------------------------------------------------------------------------------------------ |
