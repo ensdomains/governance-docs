@@ -1,9 +1,9 @@
 # \[EP4.3] \[Executable] Refund Invalid .eth Names
 
-| **Status**            | Pending                                                                                    |
+| **Status**            | Active                                                                                    |
 | --------------------- | ------------------------------------------------------------------------------------------ |
 | **Discussion Thread** | [Discuss](https://discuss.ens.domains/t/temp-check-ens-invalid-name-refund-proposal/16824) |
-| **Votes**             | Pending                                                                                    |
+| **Votes**             | [Onchain](https://www.tally.xyz/gov/ens/proposal/87741894125754523615596264728611635516467361279764827076788536604061840625452)                                                                                    |
 
 ## Abstract
 
