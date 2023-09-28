@@ -49,8 +49,8 @@ In line with our commitment to streamline governance and reduce the frequency of
 
 As is customary, we are presenting an updated version of the ["Preset permissions - ENS Endowment'' document](https://docs.google.com/document/d/1vhws_fnbIws8EUItK14V2TVIecHdJLxKzN8Za4d5L0M/edit). This document comprehensively lists all permissions granted to karpatkey, with newly requested permissions highlighted in green and any revocations marked in red.
 
-We are also sharing the [payload](https://gist.github.com/santinomics/bb6b345ff977e7451ff0506e253ebc4c) to apply the proposed changes for your review. We strongly encourage community members with the required technical expertise to scrutinise the content and share their invaluable feedback.
+We are also sharing the [payload](https://gist.github.com/santinomics/bb6b345ff977e7451ff0506e253ebc4c/044f46247ab57f8c65bf608b83eacefa128671f7) to apply the proposed changes for your review. We strongly encourage community members with the required technical expertise to scrutinise the content and share their invaluable feedback.
 
 # Transactions
 
-All transactions can be found in the following [payload](https://gist.github.com/santinomics/bb6b345ff977e7451ff0506e253ebc4c).
+All transactions can be found in the following [payload](https://gist.github.com/santinomics/bb6b345ff977e7451ff0506e253ebc4c/044f46247ab57f8c65bf608b83eacefa128671f7).
