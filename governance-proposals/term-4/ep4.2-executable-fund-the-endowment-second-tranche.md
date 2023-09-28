@@ -1,9 +1,9 @@
-# [EP4.2][Executable] Fund the Endowment (second tranche)
+# \[EP4.2]\[Executable] Fund the Endowment (second tranche)
 
-| **Status**            | Pending                                                                                                |
+| **Status**            | Active                                                                                                |
 | --------------------- | ------------------------------------------------------------------------------------------------------ |
 | **Discussion Thread** | [Discuss](https://discuss.ens.domains/t/draft-executable-fund-the-endowment-second-tranche/17743)      |
-| **Votes**             | Pending                                                                                                |
+| **Votes**             | [Onchain](https://www.tally.xyz/gov/ens/proposal/10686228418271748393758532071249002330319730525037728746406757788787068261444)                                                                                                |
 | **Authors**           | [Karpatkey](https://twitter.com/karpatkey)                                                             |
 
 # Abstract
