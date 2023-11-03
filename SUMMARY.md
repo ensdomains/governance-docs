@@ -44,3 +44,4 @@
     * [\[EP3.7\] \[Social\] Approval of ENS Name Normalization Standard (ENSIP-15)](governance-proposals/term-3/ep3.7-social-approval-of-ens-name-normalization-standard-ensip-15.md)
   * [Term 4](governance-proposals/term-4/README.md)
     * [\[EP4.1\] \[Executable\] Approve further actions and strategies for the Endowment](governance-proposals/term-4/ep4.1-executable-approve-further-actions-and-strategies-for-the-endowment.md)
+    * [\[EP4.6\] \[Executable\] October 2023 Working Group Funding](governance-proposals/term-4/ep-4.6-executable-october-2023-working-group-funding.md)governance-proposals/term-4/ep-4.6-executable-october-2023-working-group-funding.md
