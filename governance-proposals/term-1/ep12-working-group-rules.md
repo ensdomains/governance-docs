@@ -102,9 +102,8 @@ The specification below also introduces a rule to appoint a new DAO Secretary, r
     1. Stewards are eligible to receive fair compensation for their work as a Steward or Lead Steward in the DAO.
     2. All requests for Steward or Lead Steward compensation must be detailed in a Collective Proposal for working group funds submitted to the DAO in accordance with rule 10.1 above.
     3. Stewards may not receive compensation for their role as a Steward or Lead Steward outside of that compensation expressly provided for in a Collective Proposal submitted to the DAO in accordance with rule 10.1 above.
-    4. To provide predictability, fair compensation guidelines shall be defined by the Meta-Governance Working Group before subsequent Steward elections.
-    5. All changes to fair compensation guidelines shall be published before the next Steward Election and can only take effect for the following term
-
+    4. The Meta-Governance working group are responsible for defining standards for fair compensation ('Compensation Guidelines').
+    5. The Compensation Guidelines shall be defined prior to the Nomination Window for each term and can only take effect for the following term.
 
 13. Amendments
     1. These rules may be amended at any time by passing a Social Proposal.
