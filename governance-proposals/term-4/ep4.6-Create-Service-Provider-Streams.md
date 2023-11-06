@@ -8,7 +8,7 @@ description: 'This proposal creates a structure for electing new service provide
 
 | **Status**            | Passed                                                                                                                 |
 | --------------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| **Discussion Thread** | [Discuss]()               |
+| **Discussion Thread** | [Discuss](https://discuss.ens.domains/t/ep4-6-create-provider-streams-is-now-live-on-snapshot/18091)               |
 | **Vote**              | [Snapshot](https://snapshot.org/#/ens.eth/proposal/0x5748982aed143f51333befbc6cc490116648b85a2b0212fdfaf3ab848932c7ae) |
 | **Authors**           | [avsa.eth](https://mirror.xyz/avsa.eth)                                                                               |
 
