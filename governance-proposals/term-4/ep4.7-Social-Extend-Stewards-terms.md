@@ -9,7 +9,7 @@ description: 'This proposal ammends the working group rules related to Steward t
 
 | **Status**            | Passed                                                                                                                 |
 | --------------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| **Discussion Thread** | [Discuss]()               |
+| **Discussion Thread** | [Discuss](https://discuss.ens.domains/t/ep-4-7-changes-to-steward-compensation-and-term-length-is-now-live-on-snapshot/18092?u=avsa)               |
 | **Vote**              | [Snapshot](https://snapshot.org/#/ens.eth/proposal/0x26a5c8dec547837495707e70446d1e7cd874a91f75753c602998f6e70083a266) |
 | **Authors**           | [avsa.eth](https://mirror.xyz/avsa.eth)                                                                               |
 
