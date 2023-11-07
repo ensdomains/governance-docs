@@ -2,7 +2,7 @@
 description: 'This proposal creates a structure for electing new service providers for the DAO'
 ---
 
-# \[EP4.6] \[Social] Create Service Provider Streams
+# \[EP4.7] \[Social] Create Service Provider Streams
 
 
 
