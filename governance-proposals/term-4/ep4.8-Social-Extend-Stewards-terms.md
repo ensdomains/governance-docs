@@ -2,7 +2,7 @@
 description: 'This proposal ammends the working group rules related to Steward term duration and compensation rules'
 ---
 
-# \[EP4.6] \[Social] Amend working groups rules to extend to a full year
+# \[EP4.8] \[Social] Amend working groups rules to extend to a full year
 
 
 
