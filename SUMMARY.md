@@ -46,5 +46,5 @@
     * [\[EP4.1\] \[Executable\] Approve further actions and strategies for the Endowment](governance-proposals/term-4/ep4.1-executable-approve-further-actions-and-strategies-for-the-endowment.md)
     * [\[EP 4.5\] \[Executable\] Endowment permissions to karpatkey - Update #3](governance-proposals/term-4/ep4.5-Executable-endowment-permissions-to-karpatkey-update-3.md)
     * [\[EP4.6\] \[Executable\] October 2023 Working Group Funding](governance-proposals/term-4/ep-4.6-executable-october-2023-working-group-funding.md)
-    * [\[EP4.7] \[Social] Create Service Provider Streams](governance-proposals/term-4/ep4.7-Create-Service-Provider-Streams.md)
-    * [\[EP4.8] \[Social] Amend working groups rules to extend to a full year](governance-proposals/term-4/ep4.8-Social-Extend-Stewards-terms.md)
+    * [\[EP4.7\] \[Social\] Create Service Provider Streams](governance-proposals/term-4/ep4.7-Create-Service-Provider-Streams.md)
+    * [\[EP4.8\] \[Social\] Amend working groups rules to extend to a full year](governance-proposals/term-4/ep4.8-Social-Extend-Stewards-terms.md)
