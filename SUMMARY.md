@@ -46,6 +46,8 @@
     * [\[EP3.7\] \[Social\] Approval of ENS Name Normalization Standard (ENSIP-15)](governance-proposals/term-3/ep3.7-social-approval-of-ens-name-normalization-standard-ensip-15.md)
   * [Term 4](governance-proposals/term-4/README.md)
     * [\[EP4.1\] \[Executable\] Approve further actions and strategies for the Endowment](governance-proposals/term-4/ep4.1-executable-approve-further-actions-and-strategies-for-the-endowment.md)
+    * [\[EP4.2\] \[Executable\] Fund the Endowment (second tranche)](governance-proposals/term-4/ep4.2-executable-fund-the-endowment-second-tranche.md)
+    * [\[EP4.3\] \[Executable\] Refund invalid .eth names](governance-proposals/term-4/ep4.3-executabe-refund-invalid-names.md)
     * [\[EP4.5\] \[Executable\] Endowment permissions to karpatkey - Update #3](governance-proposals/term-4/ep4.5-Executable-endowment-permissions-to-karpatkey-update-3.md)
     * [\[EP4.6\] \[Executable\] October 2023 Working Group Funding](governance-proposals/term-4/ep-4.6-executable-october-2023-working-group-funding.md)
     * [\[EP4.7\] \[Social\] Create Service Provider Streams](governance-proposals/term-4/ep4.7-Create-Service-Provider-Streams.md)
