@@ -1,67 +1,57 @@
 ENS DAO Stewards
 ----------------
 
+The DAO is governed through a democratic process in which all major matters are decided through a vote open to all holders of governance tokens. Those who wish can also delegate their voting power to anyone they trust to delegates whose responsibility is to keep tabs on all the current matters being voted on and discussed. Even those who have delegated their votes can still vote directly on matters, thus overriding their delegate's decision on that specific topic. Delegates can be chosen or switched at any time, often without cost, by visiting the [ENS Delegate Website](https://claim.ens.domains/delegate-ranking) or through other apps.
 
-Stewards are roles nominated yearly by the DAO, according to the Working Group Rules. 
+For more day-to-day matters, there are also Stewards who are elected for a one-year term. The election happens every year on December 10 and lasts for 5 days. Stewards make decisions on governance, hold public meetings, and decide on grants, sponsorships, and other matters. Stewards are divided into different working groups, each reflecting their specific focus.
 
+Read the [full active rules governing the Working Groups](active-working-group-rules.md)
 
-## Current Term: 2024
-
-### Meta-governance Working Group
-
-**election pending**
-
-
-### Ecosystem Working Group
-
-**election pending**
-
-
-### Punlic Goods Working Group
-
-**election pending**
-
-
-## Past Terms
+---
+## Current Stewards
 
 ### 2023 Q3/Q4
 
 #### Meta-Governance Working Group
 
-| ![Nick Johnson / nick.eth](https://metadata.ens.domains/mainnet/avatar/nick.eth) | ![Spence / 5pence.eth](https://metadata.ens.domains/mainnet/avatar/5pence.eth) | ![Katherine Wu / katherineykwu.eth](https://metadata.ens.domains/mainnet/avatar/katherineykwu.eth) |
+
+| <img src="https://metadata.ens.domains/mainnet/avatar/nick.eth" width="200px" alt="nick.eth" /> | <img src="https://metadata.ens.domains/mainnet/avatar/5pence.eth" width="200px" alt="5pence.eth" /> | <img src="https://metadata.ens.domains/mainnet/avatar/katherineykwu.eth" width="200px" alt="Katherine Wu / katherineykwu.eth" />
 | --- | --- | --- |
 | Nick Johnson / nick.eth | Spence / 5pence.eth | Katherine Wu / katherineykwu.eth |
 
 
 #### ENS Ecosystem Working Group
 
-| ![slobo.eth](https://metadata.ens.domains/mainnet/avatar/slobo.eth) | ![limes.eth](https://metadata.ens.domains/mainnet/avatar/limes.eth) | ![184.eth](https://metadata.ens.domains/mainnet/avatar/184.eth) |
+| <img src="https://metadata.ens.domains/mainnet/avatar/slobo.eth" width="200px" alt="slobo.eth" /> | <img src="https://pbs.twimg.com/profile_images/1590768794418515968/nWP__xD1_400x400.png" width="200px" alt="limes.eth" /> | <img src="https://pbs.twimg.com/profile_images/1593023581146972161/dQ5-qk37_400x400.jpg" width="200px" alt="184.eth" />
 | --- | --- | --- |
 | slobo.eth | limes.eth | 184.eth |
 
 #### Public Goods Working Group
 
-| ![coltron.eth](https://metadata.ens.domains/mainnet/avatar/coltron.eth) | ![Simona / simona.eth](https://metadata.ens.domains/mainnet/avatar/simona.eth) | ![vegayp.eth](https://metadata.ens.domains/mainnet/avatar/vegayp.eth) |
+| <img src="https://metadata.ens.domains/mainnet/avatar/coltron.eth" width="200px" alt="coltron.eth" /> | <img src="https://metadata.ens.domains/mainnet/avatar/simona.eth" width="200px" alt="Simona / simona.eth" /> | <img src="https://pbs.twimg.com/profile_images/1643005453599744005/vjespTkK_400x400.png" width="200px" alt="vegayp.eth" /> |
 | --- | --- | --- |
 | coltron.eth | Simona / simona.eth | vegayp.eth |
+
+
+## Past Stewards
 
 ### 2023 Q1/Q2
 
 #### Meta-Governance Working Group
 
-| ![nick.eth](https://metadata.ens.domains/mainnet/avatar/nick.eth) | ![simona.eth](https://metadata.ens.domains/mainnet/avatar/simona.eth) | ![Katherine Wu](https://metadata.ens.domains/mainnet/avatar/katherineykwu.eth) |
+| <img src="https://metadata.ens.domains/mainnet/avatar/nick.eth" width="200px" alt="nick.eth" /> | <img src="https://metadata.ens.domains/mainnet/avatar/simona.eth" width="200px" alt="simona.eth" /> | <img src="https://metadata.ens.domains/mainnet/avatar/katherineykwu.eth" width="200px" alt="Katherine Wu / katherineykwu.eth" />
 | --- | --- | --- |
 | nick.eth | simona.eth | Katherine Wu |
 
 #### ENS Ecosystem Working Group
 
-| ![slobo.eth](https://metadata.ens.domains/mainnet/avatar/slobo.eth) | ![limes.eth](https://metadata.ens.domains/mainnet/avatar/limes.eth) | ![yambo.eth](https://metadata.ens.domains/mainnet/avatar/yambo.eth) |
+| <img src="https://metadata.ens.domains/mainnet/avatar/slobo.eth" width="200px" alt="slobo.eth" /> | <img src="https://pbs.twimg.com/profile_images/1590768794418515968/nWP__xD1_400x400.png" width="200px" alt="limes.eth" /> | <img src="https://metadata.ens.domains/mainnet/avatar/yambo.eth" width="200px" alt="yambo.eth" /> |
 | --- | --- | --- |
 | slobo.eth | limes.eth | yambo.eth |
 
 #### Public Goods Working Group
 
-| ![avsa.eth](https://metadata.ens.domains/mainnet/avatar/avsa.eth) | ![coltron.eth](https://metadata.ens.domains/mainnet/avatar/coltron.eth) | ![vegayp.eth](https://metadata.ens.domains/mainnet/avatar/vegayp.eth) |
+| <img src="https://metadata.ens.domains/mainnet/avatar/avsa.eth" width="200px" alt="avsa.eth" /> | <img src="https://metadata.ens.domains/mainnet/avatar/coltron.eth" width="200px" alt="coltron.eth" /> | <img src="https://pbs.twimg.com/profile_images/1643005453599744005/vjespTkK_400x400.png" width="200px" alt="vegayp.eth" /> |
 | --- | --- | --- |
 | avsa.eth | coltron.eth | vegayp.eth |
 
@@ -70,69 +60,60 @@ Stewards are roles nominated yearly by the DAO, according to the Working Group R
 
 #### Meta-Governance
 
-| ![coltron.eth](https://metadata.ens.domains/mainnet/avatar/coltron.eth) | ![simona.eth](https://metadata.ens.domains/mainnet/avatar/simona.eth) | ![nick.eth](https://metadata.ens.domains/mainnet/avatar/nick.eth) |
+| <img src="https://metadata.ens.domains/mainnet/avatar/coltron.eth" width="200px" alt="coltron.eth" /> | <img src="https://metadata.ens.domains/mainnet/avatar/simona.eth" width="200px" alt="simona.eth" /> | <img src="https://metadata.ens.domains/mainnet/avatar/nick.eth" width="200px" alt="nick.eth" /> |
 | --- | --- | --- |
 | coltron.eth | simona.eth | nick.eth |
 
 #### ENS Ecosystem
 
-| ![bobjiang.eth](https://metadata.ens.domains/mainnet/avatar/bobjiang.eth) | ![validator.eth](https://metadata.ens.domains/mainnet/avatar/validator.eth) | ![slobo.eth](https://metadata.ens.domains/mainnet/avatar/slobo.eth) |
+| <img src="https://metadata.ens.domains/mainnet/avatar/bobjiang.eth" width="200px" alt="bobjiang.eth" /> | <img src="https://metadata.ens.domains/mainnet/avatar/validator.eth" width="200px" alt="validator.eth" /> | <img src="https://metadata.ens.domains/mainnet/avatar/slobo.eth" width="200px" alt="slobo.eth" /> |
 | --- | --- | --- |
 | bobjiang.eth | validator.eth | slobo.eth |
 
 #### Community
 
-| ![limes.eth](https://metadata.ens.domains/mainnet/avatar/limes.eth) | ![coltron.eth](https://metadata.ens.domains/mainnet/avatar/coltron.eth) | ![validator.eth](https://metadata.ens.domains/mainnet/avatar/validator.eth) |
+| <img src="https://pbs.twimg.com/profile_images/1590768794418515968/nWP__xD1_400x400.png" width="200px" alt="limes.eth" /> | <img src="https://metadata.ens.domains/mainnet/avatar/coltron.eth" width="200px" alt="coltron.eth" /> | <img src="https://metadata.ens.domains/mainnet/avatar/validator.eth" width="200px" alt="validator.eth" /> |
 | --- | --- | --- |
 | limes.eth | coltron.eth | validator.eth |
 
 #### Public Goods
 
-| ![anthonyware.eth](https://metadata.ens.domains/mainnet/avatar/anthonyware.eth) | ![ceresstation.eth](https://metadata.ens.domains/mainnet/avatar/ceresstation.eth) | ![avsa.eth](https://metadata.ens.domains/mainnet/avatar/avsa.eth) |
+| <img src="https://metadata.ens.domains/mainnet/avatar/anthonyware.eth" width="200px" alt="anthonyware.eth" /> | <img src="https://metadata.ens.domains/mainnet/avatar/ceresstation.eth" width="200px" alt="ceresstation.eth" /> | <img src="https://metadata.ens.domains/mainnet/avatar/avsa.eth" width="200px" alt="avsa.eth" /> |
 | --- | --- | --- |
 | anthonyware.eth | ceresstation.eth | avsa.eth |
 
 
 
 ### 2022 Q1/Q2
-### 2022 Q1/Q2
 
 #### Meta-Governance
 
-| ![jmj.eth](https://metadata.ens.domains/mainnet/avatar/jmj.eth) | ![simona.eth](https://metadata.ens.domains/mainnet/avatar/simona.eth) | ![james.eth](https://metadata.ens.domains/mainnet/avatar/james.eth) |
+| <img src="https://openseauserdata.com/files/906f656774ab63f3186d8c8248a5bde9.svg" width="200px" alt="jmj.eth" /> | <img src="https://metadata.ens.domains/mainnet/avatar/simona.eth" width="200px" alt="simona.eth" /> | <img src="https://metadata.ens.domains/mainnet/avatar/james.eth" width="200px" alt="james.eth" /> |
 | --- | --- | --- |
 | jmj.eth | simona.eth | james.eth |
-
-| ![nick.eth](https://metadata.ens.domains/mainnet/avatar/nick.eth) | ![leontalbert.eth](https://metadata.ens.domains/mainnet/avatar/leontalbert.eth) |  |
-| --- | --- | --- |
+| <img src="https://metadata.ens.domains/mainnet/avatar/nick.eth" width="200px" alt="nick.eth" /> | <img src="https://metadata.ens.domains/mainnet/avatar/leontalbert.eth" width="200px" alt="leontalbert.eth" /> |  |
 | nick.eth | leontalbert.eth |  |
 
 #### ENS Ecosystem
 
-| ![ginge.eth](https://metadata.ens.domains/mainnet/avatar/ginge.eth) | ![slobo.eth](https://metadata.ens.domains/mainnet/avatar/slobo.eth) | ![bobjiang.eth](https://metadata.ens.domains/mainnet/avatar/bobjiang.eth) |
+| <img src="https://metadata.ens.domains/mainnet/avatar/ginge.eth" width="200px" alt="ginge.eth" /> | <img src="https://metadata.ens.domains/mainnet/avatar/slobo.eth" width="200px" alt="slobo.eth" /> | <img src="https://metadata.ens.domains/mainnet/avatar/bobjiang.eth" width="200px" alt="bobjiang.eth" /> |
 | --- | --- | --- |
 | ginge.eth | slobo.eth | bobjiang.eth |
-
-| ![nick.eth](https://metadata.ens.domains/mainnet/avatar/nick.eth) | ![jefflau.eth](https://metadata.ens.domains/mainnet/avatar/jefflau.eth) |  |
-| --- | --- | --- |
+| <img src="https://metadata.ens.domains/mainnet/avatar/nick.eth" width="200px" alt="nick.eth" /> | <img src="https://metadata.ens.domains/mainnet/avatar/jefflau.eth" width="200px" alt="jefflau.eth" /> |  |
 | nick.eth | jefflau.eth |  |
 
 #### Community
 
-| ![limes.eth](https://metadata.ens.domains/mainnet/avatar/limes.eth) | ![coltron.eth](https://metadata.ens.domains/mainnet/avatar/coltron.eth) | ![spencecoin.eth](https://metadata.ens.domains/mainnet/avatar/spencecoin.eth) |
+| <img src="https://pbs.twimg.com/profile_images/1590768794418515968/nWP__xD1_400x400.png" width="200px" alt="limes.eth" /> | <img src="https://metadata.ens.domains/mainnet/avatar/coltron.eth" width="200px" alt="coltron.eth" /> | <img src="https://metadata.ens.domains/mainnet/avatar/spencecoin.eth" width="200px" alt="spencecoin.eth" /> |
 | --- | --- | --- |
 | limes.eth | coltron.eth | spencecoin.eth |
-
-| ![brantly.eth](https://metadata.ens.domains/mainnet/avatar/brantly.eth) | ![validator.eth](https://metadata.ens.domains/mainnet/avatar/validator.eth) |  |
-| --- | --- | --- |
+| <img src="https://metadata.ens.domains/mainnet/avatar/brantly.eth" width="200px" alt="brantly.eth" /> | <img src="https://metadata.ens.domains/mainnet/avatar/validator.eth" width="200px" alt="validator.eth" /> |  |
 | brantly.eth | validator.eth |  |
 
 #### Public Goods
 
-| ![sumedha.eth](https://metadata.ens.domains/mainnet/avatar/sumedha.eth) | ![ceresstation.eth](https://metadata.ens.domains/mainnet/avatar/ceresstation.eth) | ![avsa.eth](https://metadata.ens.domains/mainnet/avatar/avsa.eth) |
+| <img src="https://openseauserdata.com/files/e0c94995d040aa34739456ea84e4079d.svg" width="200px" alt="sumedha.eth" /> | <img src="https://metadata.ens.domains/mainnet/avatar/ceresstation.eth" width="200px" alt="ceresstation.eth" /> | <img src="https://metadata.ens.domains/mainnet/avatar/avsa.eth" width="200px" alt="avsa.eth" /> |
 | --- | --- | --- |
 | sumedha.eth | ceresstation.eth | avsa.eth |
-
-| ![matoken.eth](https://metadata.ens.domains/mainnet/avatar/matoken.eth) | ![ricmoo.eth](https://metadata.ens.domains/mainnet/avatar/ricmoo.eth) |  |
-| --- | --- | --- |
+| <img src="https://metadata.ens.domains/mainnet/avatar/matoken.eth" width="200px" alt="matoken.eth" /> | <img src="https://metadata.ens.domains/mainnet/avatar/ricmoo.eth" width="200px" alt="ricmoo.eth" /> |  |
 | matoken.eth | ricmoo.eth |  |
