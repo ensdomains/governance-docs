@@ -1,7 +1,7 @@
 ENS Working Group Rules
 -----------------------
 
-*This document represents the current state of the Working Group Rules as of 2024, as created originally by EP4, replaced by EP1.8 (formerly EP12) and then amended by EP4.7. These should represent the canonical version of the rules and any social proposal to amend it should include a PR to this document.*
+*This document represents the current state of the Working Group Rules as created by [EP0.4](governance-proposals/term-0/ep4-social-proposal-creation-of-foundational-working-groups-and-working-group-rules), and amended by [EP1.8](governance-proposals/term-1/ep12-working-group-rules) and [EP4.8](governance-proposals/term-4/ep4.8-Social-Extend-Stewards-terms.md). These should represent the canonical version of the rules and any social proposal to amend it should include a PR to this document.*
 
 
 ### Working Groups Rules
