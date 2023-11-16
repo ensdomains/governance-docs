@@ -77,4 +77,5 @@ If the above vote passes, then an Executable proposal will be made to terminate 
 
 ## 6. Output and Licensing
 ### 6.1 Open Source Requirement
+- Service Providers Commit to build projects aligned with the ENS DAO values of Openness and Decentralization, follow proper ENS governance procedure on any major proposal and halt any feature that the community indicates strong objection to.
 - All outputs will be licensed under MIT
