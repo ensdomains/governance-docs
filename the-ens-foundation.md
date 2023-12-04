@@ -56,6 +56,6 @@ For transparency, important documents relating to the Foundation can be found be
 
 [Dir Res - Stage 2 - The ENS Foundation (27.10.21)](https://github.com/ENSpunks/governance-docs/blob/b858fb15097d4947cbcb49586d8e87912989e683/.gitbook/assets/Dir%20Res%20-%20Stage%202%20-%20The%20ENS%20Foundation%20(27.10.21).pdf)
 
-[Resignation and appointment of a director](https://github.com/ENSpunks/governance-docs/blob/b858fb15097d4947cbcb49586d8e87912989e683/.gitbook/assets/Resignation%20and%20appointment%20of%20a%20director.pdf)https://github.com/ENSpunks/governance-docs/blob/b858fb15097d4947cbcb49586d8e87912989e683/.gitbook/assets/Resignation%20and%20appointment%20of%20a%20director.pdf
+[Resignation and appointment of a director](https://github.com/ENSpunks/governance-docs/blob/b858fb15097d4947cbcb49586d8e87912989e683/.gitbook/assets/Resignation%20and%20appointment%20of%20a%20director.pdf)
 
-[Brantly resignation](https://github.com/ENSpunks/governance-docs/blob/b858fb15097d4947cbcb49586d8e87912989e683/.gitbook/assets/Brantly%20resignation.pdf)https://github.com/ENSpunks/governance-docs/blob/b858fb15097d4947cbcb49586d8e87912989e683/.gitbook/assets/Brantly%20resignation.pdf
+[Brantly resignation](https://github.com/ENSpunks/governance-docs/blob/b858fb15097d4947cbcb49586d8e87912989e683/.gitbook/assets/Brantly%20resignation.pdf)
