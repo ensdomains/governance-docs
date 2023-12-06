@@ -7,6 +7,7 @@
 * [The ENS Foundation](the-ens-foundation.md)
 * [DAO Stewards](stewards.md)
   * [Working Group Rules](active-working-group-rules.md) 
+  * [Stream Providers Rules](service-provider-rules.md) 
 * [Governance Proposals](governance-proposals/README.md)
   * [Term 0](governance-proposals/term-0/README.md)
     * [\[EP0.1\] \[Social\] Proposal: Transfer ENS Treasury and Contract Ownership](governance-proposals/term-0/ep1-social-proposal-transfer-ens-treasury-and-contract-ownership.md)
