@@ -32,6 +32,7 @@ To support service providers contributing to the advancement and sustainability 
 - The snapshot vote will use approval voting, and include every service provider who submitted a valid application for consideration.
 - Proposals must secure a minimum of 1 million ENS in approvals.
 - A None of the Above option will also exist. Candidates with less approval than the NOTA should be disqualified.
+- The meta-governance working group has the right at their own discretion, to change these procedures in minor ways, like switching to another multiple choice voting system (like ranked choice or STAR voting) as they see fit to improve the usability of the procedure, before opening the candidate nomination window for future elections. 
 
 ### 3.3 Project Selection
 Selection of winning proposals uses the following process:
