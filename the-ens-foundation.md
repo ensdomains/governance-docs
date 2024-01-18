@@ -50,12 +50,12 @@ The Directors may ask the DAO for reimbursement of these fees when they are incu
 
 For transparency, important documents relating to the Foundation can be found below. Meeting minutes, resolutions, accounts, and other documentation will be uploaded here as it is made available to the directors.
 
-{% file src=".gitbook/assets/M&A - Incorp - The ENS Foundation - 26 October 2021.pdf" %}
+[M&A - Incorp - The ENS Foundation - 26 October 2021](https://github.com/ENSpunks/governance-docs/blob/b858fb15097d4947cbcb49586d8e87912989e683/.gitbook/assets/M%26A%20-%20Incorp%20-%20The%20ENS%20Foundation%20-%2026%20October%202021.pdf)
 
-{% file src=".gitbook/assets/Certificate of Incorporation - The ENS Foundation - 26 October 2021.pdf" %}
+[Certificate of Incorporation - The ENS Foundation - 26 October 2021](https://github.com/ENSpunks/governance-docs/blob/b858fb15097d4947cbcb49586d8e87912989e683/.gitbook/assets/Certificate%20of%20Incorporation%20-%20The%20ENS%20Foundation%20-%2026%20October%202021.pdf)
 
-{% file src=".gitbook/assets/Dir Res - Stage 2 - The ENS Foundation (27.10.21).pdf" %}
+[Dir Res - Stage 2 - The ENS Foundation (27.10.21)](https://github.com/ENSpunks/governance-docs/blob/b858fb15097d4947cbcb49586d8e87912989e683/.gitbook/assets/Dir%20Res%20-%20Stage%202%20-%20The%20ENS%20Foundation%20(27.10.21).pdf)
 
-{% file src=".gitbook/assets/Resignation and appointment of a director.pdf" %}
+[Resignation and appointment of a director](https://github.com/ENSpunks/governance-docs/blob/b858fb15097d4947cbcb49586d8e87912989e683/.gitbook/assets/Resignation%20and%20appointment%20of%20a%20director.pdf)
 
-{% file src=".gitbook/assets/Brantly resignation.pdf" %}
+[Brantly resignation](https://github.com/ENSpunks/governance-docs/blob/b858fb15097d4947cbcb49586d8e87912989e683/.gitbook/assets/Brantly%20resignation.pdf)
