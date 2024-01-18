@@ -55,3 +55,5 @@
     * [\[EP4.8\] \[Social\] Amend working groups rules to extend to a full year](governance-proposals/term-4/ep4.8-Social-Extend-Stewards-terms.md)
     * [\[EP4.9\] \[Social\] Select providers for EP4.7 streams](governance-proposals/term-4/ep4.9-social-select-providers-for-ep4.7-streams.md)
     * [\[EP4.10\] \[Social\] Transfer ENS Root Key Ownership to the ENS DAO](governance-proposals/term-4/ep4.10-social-transfer-ens-root-key-ownership-to-the-ens-dao.md)
+  * [Term 5](governance-proposals/term-5/README.md)
+    * [\[EP5.1\] \[Executable\] Upgrade DNSSEC support](governance-proposals/term-5/ep5.1-executable-upgrade-dnssec-support.md)
