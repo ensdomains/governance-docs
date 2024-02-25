@@ -35,10 +35,8 @@ The specification below also introduces a rule to appoint a new DAO Secretary, r
    3. Upon the dissolution of a working group, any and all unspent working group funds from that working group, at the time of dissolution, must be immediately returned to the DAO treasury, without delay.
 3. Working Group Stewards
    1. Each working group shall be managed by three stewards (hereafter a ‘Steward’ or ‘Stewards’).
-   2. Stewards will be elected to serve within working groups for a set period of time (hereafter known as a ‘Term’ or ‘Terms’).
-   3. There are two Terms each calendar year:
-      1. The first Term commences at 9am UTC on January 1 each year and ends immediately prior to the commencement of the second Term (‘First Term’); and
-      2. The second Term commences at 9am UTC on July 1 each year and ends immediately prior to the commencement of the First Term of the following year (‘Second Term’).
+   2. Stewards will be elected to serve within working groups for a set period of one calendar year (hereafter known as a ‘Term’).
+   3. The Term for Stewards commences at 9am UTC on January 1 each year and ends immediately prior to the commencement of the Term of the following year.
    4. Stewards are responsible for overseeing the operation of working groups in accordance with these rules and the ENS DAO constitution.
    5. The responsibilities of Stewards include, but are not limited to:
       1. Requesting working group funds from the DAO in accordance with these rules;
@@ -48,16 +46,14 @@ The specification below also introduces a rule to appoint a new DAO Secretary, r
       5. Using discretion to disburse working group funds to people and/or projects in accordance with the ENS DAO constitution; and
       6. Acting as keyholders of working group multi-sigs.
 4. Steward Eligibility and Nominations
-   1. Any individual is eligible to nominate themselves to be a Steward of a working group within the DAO (‘Eligible Person’ or ‘Eligible Persons’).
-   2. To be eligible to be included in the ballot for First Term elections of a given year, Eligible Persons must nominate themselves between 9am UTC on December 6 and 9am UTC on December 9 (‘First Term Nomination Window’).
-   3. To be eligible to be included in the ballot for Second Term elections of a given year, Eligible Persons must nominate themselves between 9am UTC on June 6 and 9am UTC on June 9 (‘Second Term Nomination Window’).
-   4. An Eligible Person may nominate themselves to become a Steward of a working group or working groups during the First Term Nomination Window or the Second Term Nomination Window (each a ‘Nomination Window’), by meeting the requirements set out in a call for nominations posted in the relevant working group category of the ENS governance forum.
-   5. An Eligible Person who completes the steps outlined in rule 4.4 above during a Nomination Window and receives 10,000 signed votes to support their nomination will be included in the ballot as a nominee in the election for Stewards that takes place following that Nomination Window (‘Nominee’).
+   1. Any individual is eligible to nominate themselves to be a Steward of a working group within the DAO (‘Eligible Person’).
+   2. To be eligible for the election for the annual Term, Eligible Persons must nominate themselves between 9am UTC on December 6 and 9am UTC on December 9 (‘Nomination Window’).
+   3. An Eligible Person may nominate themselves to become a Steward of a working group during the Nomination Window, by meeting the requirements set out in a call for nominations posted in the relevant working group category of the ENS governance forum.
+   4. An Eligible Person who completes the steps outlined in rule 4.3 above during the Nomination Window and receives 10,000 signed votes to support their nomination will be included in the ballot as a nominee in the election for Stewards that takes place following that Nomination Window (‘Nominee’).
 5. Steward Elections
-   1. Elections for working group Stewards for the First Term of a given year will take place by a vote of governance token holders using signed messages and will be open for 120 hours, commencing at 9am UTC on December 10 each year (‘First Term Election Window’).
-   2. Elections for working group Stewards for the Second Term of a given year will take place by a vote of governance token holders using signed messages and will be open for 120 hours, commencing at 9am UTC on June 10 each year (‘Second Term Election Window’).
-   3. The top-ranked Nominees from each working group vote held during a First Term Election Window or a Second Term Election Window (each an 'Election Window'), will fill any available positions for the role of Steward for those working groups for the Term immediately following an Election Window, based on the order in which they are ranked in each working group vote.
-   4. A Nominee elected to serve as a Steward may not take up the role of Steward for more than two working groups during a single Term.
+   1. Elections for working group Stewards for the upcoming year will take place by a vote of governance token holders using signed messages and will be open for 120 hours, commencing at 9am UTC on December 10 each year (‘Election Window’).
+   2. The top-ranked Nominees from the working group vote held during the Election Window will fill any available positions for the role of Steward for those working groups for the upcoming Term, based on the order in which they are ranked in the vote.
+   3. A Nominee elected to serve as a Steward may not take up the role of Steward for more than two working groups during their Term.
 6. Delay of Nominations or Elections
    1. In the event that nominations or elections for Stewards take place after a Nomination Window or after an Election Window, the nomination process and/or elections shall take place, as otherwise prescribed in rules 4 and 5 above, as soon as is practicable after the missed Nomination Window or missed Election Window.
    2. In the event that an election takes place outside of an Election Window and after the commencement date of a new Term, outgoing Stewards from the previous Term shall stay in their positions as working group Stewards until immediately prior to 9am UTC the day following the end of the election, which, for the avoidance of doubt, is 120 hours after voting in those elections commenced.
@@ -106,7 +102,10 @@ The specification below also introduces a rule to appoint a new DAO Secretary, r
     1. Stewards are eligible to receive fair compensation for their work as a Steward or Lead Steward in the DAO.
     2. All requests for Steward or Lead Steward compensation must be detailed in a Collective Proposal for working group funds submitted to the DAO in accordance with rule 10.1 above.
     3. Stewards may not receive compensation for their role as a Steward or Lead Steward outside of that compensation expressly provided for in a Collective Proposal submitted to the DAO in accordance with rule 10.1 above.
-12. Amendments
+    4. The Meta-Governance working group are responsible for defining standards for fair compensation ('Compensation Guidelines').
+    5. The Compensation Guidelines shall be defined prior to the Nomination Window for each term and can only take effect for the following term.
+
+13. Amendments
     1. These rules may be amended at any time by passing a Social Proposal.
 
 ### Next Steps
