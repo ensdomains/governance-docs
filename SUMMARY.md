@@ -58,3 +58,4 @@
   * [Term 5](governance-proposals/term-5/README.md)
     * [\[EP5.1\] \[Executable\] Upgrade DNSSEC support](governance-proposals/term-5/ep5.1-executable-upgrade-dnssec-support.md)
     * [\[EP5.2\] \[Social\] Determine ENS Labs’ next steps in eth.link litigation](governance-proposals/term-5/ep5.2-next-steps-in-eth-link-litigation.md)
+   * [\[5.4.1\] \[Social\] Funding Request: ENS Meta-Governance Working Group Term 5 (Q1/Q2)](governance-proposals/term-5/5.4.1-social-funding-request-ens-meta-governance-working-group-term-5-q1q2.md)
